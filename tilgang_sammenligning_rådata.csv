@@ -1,0 +1,1987 @@
+"","aarmnd","bransje_grov","fylkesnavn","stilling_kilde_id","ainfo","kafka"
+"1",202005,"Akademiske yrker","03 Oslo",42,14,14
+"2",202005,"Akademiske yrker","03 Oslo",45,450,418
+"3",202005,"Akademiske yrker","11 Rogaland",42,3,3
+"4",202005,"Akademiske yrker","11 Rogaland",45,76,78
+"5",202005,"Akademiske yrker","15 Møre og Romsdal",42,1,1
+"6",202005,"Akademiske yrker","15 Møre og Romsdal",45,52,50
+"7",202005,"Akademiske yrker","18 Nordland",42,4,3
+"8",202005,"Akademiske yrker","18 Nordland",45,50,49
+"9",202005,"Akademiske yrker","30 Viken",42,5,5
+"10",202005,"Akademiske yrker","30 Viken",45,233,235
+"11",202005,"Akademiske yrker","34 Innlandet",42,2,1
+"12",202005,"Akademiske yrker","34 Innlandet",45,52,53
+"13",202005,"Akademiske yrker","38 Telemark og Vestfold",42,3,3
+"14",202005,"Akademiske yrker","38 Telemark og Vestfold",45,52,52
+"15",202005,"Akademiske yrker","42 Agder",42,2,2
+"16",202005,"Akademiske yrker","42 Agder",45,68,67
+"17",202005,"Akademiske yrker","46 Vestland",42,4,4
+"18",202005,"Akademiske yrker","46 Vestland",45,242,236
+"19",202005,"Akademiske yrker","50 Trøndelag",42,6,6
+"20",202005,"Akademiske yrker","50 Trøndelag",45,98,90
+"21",202005,"Akademiske yrker","54 Finnmark og Troms",42,1,2
+"22",202005,"Akademiske yrker","54 Finnmark og Troms",45,76,74
+"23",202005,"Akademiske yrker","99 øvrige omrøder",45,1,1
+"24",202005,"Akademiske yrker","UTLAND",45,5,NA
+"25",202005,"Barne- og ungdomsarbeid","03 Oslo",42,4,9
+"26",202005,"Barne- og ungdomsarbeid","03 Oslo",45,333,332
+"27",202005,"Barne- og ungdomsarbeid","11 Rogaland",42,3,4
+"28",202005,"Barne- og ungdomsarbeid","11 Rogaland",45,61,62
+"29",202005,"Barne- og ungdomsarbeid","15 Møre og Romsdal",42,2,2
+"30",202005,"Barne- og ungdomsarbeid","15 Møre og Romsdal",45,50,50
+"31",202005,"Barne- og ungdomsarbeid","18 Nordland",42,14,14
+"32",202005,"Barne- og ungdomsarbeid","18 Nordland",45,37,37
+"33",202005,"Barne- og ungdomsarbeid","30 Viken",42,22,12
+"34",202005,"Barne- og ungdomsarbeid","30 Viken",45,186,172
+"35",202005,"Barne- og ungdomsarbeid","34 Innlandet",42,23,22
+"36",202005,"Barne- og ungdomsarbeid","34 Innlandet",45,23,22
+"37",202005,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",42,28,27
+"38",202005,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",45,69,70
+"39",202005,"Barne- og ungdomsarbeid","42 Agder",42,13,12
+"40",202005,"Barne- og ungdomsarbeid","42 Agder",45,42,41
+"41",202005,"Barne- og ungdomsarbeid","46 Vestland",42,12,11
+"42",202005,"Barne- og ungdomsarbeid","46 Vestland",45,127,127
+"43",202005,"Barne- og ungdomsarbeid","50 Trøndelag",42,58,53
+"44",202005,"Barne- og ungdomsarbeid","50 Trøndelag",45,135,92
+"45",202005,"Barne- og ungdomsarbeid","54 Finnmark og Troms",42,4,4
+"46",202005,"Barne- og ungdomsarbeid","54 Finnmark og Troms",45,92,89
+"47",202005,"Butikk- og salgsarbeid","03 Oslo",42,13,13
+"48",202005,"Butikk- og salgsarbeid","03 Oslo",45,477,461
+"49",202005,"Butikk- og salgsarbeid","11 Rogaland",42,13,13
+"50",202005,"Butikk- og salgsarbeid","11 Rogaland",45,98,98
+"51",202005,"Butikk- og salgsarbeid","15 Møre og Romsdal",42,4,4
+"52",202005,"Butikk- og salgsarbeid","15 Møre og Romsdal",45,79,83
+"53",202005,"Butikk- og salgsarbeid","18 Nordland",42,8,9
+"54",202005,"Butikk- og salgsarbeid","18 Nordland",45,84,80
+"55",202005,"Butikk- og salgsarbeid","30 Viken",42,49,49
+"56",202005,"Butikk- og salgsarbeid","30 Viken",45,297,299
+"57",202005,"Butikk- og salgsarbeid","34 Innlandet",42,35,45
+"58",202005,"Butikk- og salgsarbeid","34 Innlandet",45,72,76
+"59",202005,"Butikk- og salgsarbeid","38 Telemark og Vestfold",42,58,57
+"60",202005,"Butikk- og salgsarbeid","38 Telemark og Vestfold",45,157,168
+"61",202005,"Butikk- og salgsarbeid","42 Agder",42,25,21
+"62",202005,"Butikk- og salgsarbeid","42 Agder",45,102,102
+"63",202005,"Butikk- og salgsarbeid","46 Vestland",42,12,13
+"64",202005,"Butikk- og salgsarbeid","46 Vestland",45,143,143
+"65",202005,"Butikk- og salgsarbeid","50 Trøndelag",42,40,40
+"66",202005,"Butikk- og salgsarbeid","50 Trøndelag",45,164,164
+"67",202005,"Butikk- og salgsarbeid","54 Finnmark og Troms",42,18,18
+"68",202005,"Butikk- og salgsarbeid","54 Finnmark og Troms",45,104,90
+"69",202005,"Bygg og anlegg","03 Oslo",42,29,47
+"70",202005,"Bygg og anlegg","03 Oslo",45,404,376
+"71",202005,"Bygg og anlegg","11 Rogaland",42,109,101
+"72",202005,"Bygg og anlegg","11 Rogaland",45,256,253
+"73",202005,"Bygg og anlegg","15 Møre og Romsdal",42,29,29
+"74",202005,"Bygg og anlegg","15 Møre og Romsdal",45,123,114
+"75",202005,"Bygg og anlegg","18 Nordland",42,12,12
+"76",202005,"Bygg og anlegg","18 Nordland",45,164,167
+"77",202005,"Bygg og anlegg","30 Viken",42,104,99
+"78",202005,"Bygg og anlegg","30 Viken",45,412,398
+"79",202005,"Bygg og anlegg","34 Innlandet",42,26,30
+"80",202005,"Bygg og anlegg","34 Innlandet",45,69,72
+"81",202005,"Bygg og anlegg","38 Telemark og Vestfold",42,57,58
+"82",202005,"Bygg og anlegg","38 Telemark og Vestfold",45,147,143
+"83",202005,"Bygg og anlegg","42 Agder",42,36,32
+"84",202005,"Bygg og anlegg","42 Agder",45,53,57
+"85",202005,"Bygg og anlegg","46 Vestland",42,47,40
+"86",202005,"Bygg og anlegg","46 Vestland",45,270,261
+"87",202005,"Bygg og anlegg","50 Trøndelag",42,120,116
+"88",202005,"Bygg og anlegg","50 Trøndelag",45,240,233
+"89",202005,"Bygg og anlegg","54 Finnmark og Troms",42,67,67
+"90",202005,"Bygg og anlegg","54 Finnmark og Troms",45,144,157
+"91",202005,"Helse, pleie og omsorg","03 Oslo",42,7,10
+"92",202005,"Helse, pleie og omsorg","03 Oslo",45,1062,1137
+"93",202005,"Helse, pleie og omsorg","11 Rogaland",42,7,9
+"94",202005,"Helse, pleie og omsorg","11 Rogaland",45,461,460
+"95",202005,"Helse, pleie og omsorg","15 Møre og Romsdal",42,4,5
+"96",202005,"Helse, pleie og omsorg","15 Møre og Romsdal",45,315,298
+"97",202005,"Helse, pleie og omsorg","18 Nordland",42,2,2
+"98",202005,"Helse, pleie og omsorg","18 Nordland",45,353,343
+"99",202005,"Helse, pleie og omsorg","30 Viken",42,18,18
+"100",202005,"Helse, pleie og omsorg","30 Viken",45,1311,1287
+"101",202005,"Helse, pleie og omsorg","34 Innlandet",42,53,52
+"102",202005,"Helse, pleie og omsorg","34 Innlandet",45,454,460
+"103",202005,"Helse, pleie og omsorg","38 Telemark og Vestfold",42,21,21
+"104",202005,"Helse, pleie og omsorg","38 Telemark og Vestfold",45,337,349
+"105",202005,"Helse, pleie og omsorg","42 Agder",42,26,24
+"106",202005,"Helse, pleie og omsorg","42 Agder",45,390,377
+"107",202005,"Helse, pleie og omsorg","46 Vestland",42,24,22
+"108",202005,"Helse, pleie og omsorg","46 Vestland",45,905,859
+"109",202005,"Helse, pleie og omsorg","50 Trøndelag",42,16,12
+"110",202005,"Helse, pleie og omsorg","50 Trøndelag",45,476,394
+"111",202005,"Helse, pleie og omsorg","54 Finnmark og Troms",42,18,8
+"112",202005,"Helse, pleie og omsorg","54 Finnmark og Troms",45,454,447
+"113",202005,"Helse, pleie og omsorg","99 øvrige omrøder",45,1,1
+"114",202005,"Industriarbeid","03 Oslo",42,8,21
+"115",202005,"Industriarbeid","03 Oslo",45,145,125
+"116",202005,"Industriarbeid","11 Rogaland",42,45,44
+"117",202005,"Industriarbeid","11 Rogaland",45,95,97
+"118",202005,"Industriarbeid","15 Møre og Romsdal",42,38,38
+"119",202005,"Industriarbeid","15 Møre og Romsdal",45,71,69
+"120",202005,"Industriarbeid","18 Nordland",42,26,15
+"121",202005,"Industriarbeid","18 Nordland",45,49,44
+"122",202005,"Industriarbeid","30 Viken",42,60,56
+"123",202005,"Industriarbeid","30 Viken",45,206,206
+"124",202005,"Industriarbeid","34 Innlandet",42,25,25
+"125",202005,"Industriarbeid","34 Innlandet",45,40,39
+"126",202005,"Industriarbeid","38 Telemark og Vestfold",42,70,57
+"127",202005,"Industriarbeid","38 Telemark og Vestfold",45,56,57
+"128",202005,"Industriarbeid","42 Agder",42,23,22
+"129",202005,"Industriarbeid","42 Agder",45,31,32
+"130",202005,"Industriarbeid","46 Vestland",42,51,50
+"131",202005,"Industriarbeid","46 Vestland",45,134,138
+"132",202005,"Industriarbeid","50 Trøndelag",42,105,104
+"133",202005,"Industriarbeid","50 Trøndelag",45,104,104
+"134",202005,"Industriarbeid","54 Finnmark og Troms",42,18,29
+"135",202005,"Industriarbeid","54 Finnmark og Troms",45,61,68
+"136",202005,"Industriarbeid","99 øvrige omrøder",45,2,2
+"137",202005,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",42,13,13
+"138",202005,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",45,40,40
+"139",202005,"Ingen yrkesbakgrunn eller uoppgitt","11 Rogaland",42,2,2
+"140",202005,"Ingen yrkesbakgrunn eller uoppgitt","11 Rogaland",45,1,1
+"141",202005,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",42,8,8
+"142",202005,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",45,4,4
+"143",202005,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",42,15,15
+"144",202005,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",45,11,11
+"145",202005,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",42,38,37
+"146",202005,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",45,56,64
+"147",202005,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",42,12,11
+"148",202005,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",45,6,6
+"149",202005,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",42,18,16
+"150",202005,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",45,35,35
+"151",202005,"Ingen yrkesbakgrunn eller uoppgitt","42 Agder",42,29,22
+"152",202005,"Ingen yrkesbakgrunn eller uoppgitt","42 Agder",45,9,9
+"153",202005,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",42,13,13
+"154",202005,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",42,64,64
+"155",202005,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",45,22,22
+"156",202005,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",42,3,3
+"157",202005,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",45,10,10
+"158",202005,"Ingeni?r- og ikt-fag","03 Oslo",36,1,NA
+"159",202005,"Ingeni?r- og ikt-fag","03 Oslo",42,3,3
+"160",202005,"Ingeni?r- og ikt-fag","03 Oslo",45,647,670
+"161",202005,"Ingeni?r- og ikt-fag","11 Rogaland",42,9,9
+"162",202005,"Ingeni?r- og ikt-fag","11 Rogaland",45,235,230
+"163",202005,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",42,1,1
+"164",202005,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",45,75,77
+"165",202005,"Ingeni?r- og ikt-fag","18 Nordland",42,4,4
+"166",202005,"Ingeni?r- og ikt-fag","18 Nordland",45,70,69
+"167",202005,"Ingeni?r- og ikt-fag","30 Viken",42,9,10
+"168",202005,"Ingeni?r- og ikt-fag","30 Viken",45,319,327
+"169",202005,"Ingeni?r- og ikt-fag","34 Innlandet",42,5,4
+"170",202005,"Ingeni?r- og ikt-fag","34 Innlandet",45,59,60
+"171",202005,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",42,7,6
+"172",202005,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",45,65,65
+"173",202005,"Ingeni?r- og ikt-fag","42 Agder",42,3,3
+"174",202005,"Ingeni?r- og ikt-fag","42 Agder",45,74,74
+"175",202005,"Ingeni?r- og ikt-fag","46 Vestland",42,9,10
+"176",202005,"Ingeni?r- og ikt-fag","46 Vestland",45,232,225
+"177",202005,"Ingeni?r- og ikt-fag","50 Trøndelag",42,13,13
+"178",202005,"Ingeni?r- og ikt-fag","50 Trøndelag",45,185,184
+"179",202005,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",42,4,3
+"180",202005,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",45,71,74
+"181",202005,"Ingeni?r- og ikt-fag","99 øvrige omrøder",45,1,1
+"182",202005,"Ingeni?r- og ikt-fag","UKJENT",45,NA,1
+"183",202005,"Jordbruk, skogbruk og fiske","03 Oslo",42,1,NA
+"184",202005,"Jordbruk, skogbruk og fiske","03 Oslo",45,19,16
+"185",202005,"Jordbruk, skogbruk og fiske","11 Rogaland",42,3,3
+"186",202005,"Jordbruk, skogbruk og fiske","11 Rogaland",45,2,2
+"187",202005,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",42,4,4
+"188",202005,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",45,7,5
+"189",202005,"Jordbruk, skogbruk og fiske","18 Nordland",42,4,4
+"190",202005,"Jordbruk, skogbruk og fiske","18 Nordland",45,19,19
+"191",202005,"Jordbruk, skogbruk og fiske","30 Viken",42,10,10
+"192",202005,"Jordbruk, skogbruk og fiske","30 Viken",45,50,31
+"193",202005,"Jordbruk, skogbruk og fiske","34 Innlandet",42,16,16
+"194",202005,"Jordbruk, skogbruk og fiske","34 Innlandet",45,13,13
+"195",202005,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",42,15,16
+"196",202005,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",45,7,10
+"197",202005,"Jordbruk, skogbruk og fiske","42 Agder",42,6,6
+"198",202005,"Jordbruk, skogbruk og fiske","42 Agder",45,4,5
+"199",202005,"Jordbruk, skogbruk og fiske","46 Vestland",42,10,10
+"200",202005,"Jordbruk, skogbruk og fiske","46 Vestland",45,28,28
+"201",202005,"Jordbruk, skogbruk og fiske","50 Trøndelag",42,63,63
+"202",202005,"Jordbruk, skogbruk og fiske","50 Trøndelag",45,12,12
+"203",202005,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",42,4,4
+"204",202005,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",45,50,50
+"205",202005,"Kontorarbeid","03 Oslo",36,16,NA
+"206",202005,"Kontorarbeid","03 Oslo",42,14,15
+"207",202005,"Kontorarbeid","03 Oslo",45,264,284
+"208",202005,"Kontorarbeid","11 Rogaland",42,8,8
+"209",202005,"Kontorarbeid","11 Rogaland",45,49,49
+"210",202005,"Kontorarbeid","15 Møre og Romsdal",42,11,12
+"211",202005,"Kontorarbeid","15 Møre og Romsdal",45,20,21
+"212",202005,"Kontorarbeid","18 Nordland",42,14,14
+"213",202005,"Kontorarbeid","18 Nordland",45,27,26
+"214",202005,"Kontorarbeid","30 Viken",42,28,32
+"215",202005,"Kontorarbeid","30 Viken",45,202,206
+"216",202005,"Kontorarbeid","34 Innlandet",42,28,27
+"217",202005,"Kontorarbeid","34 Innlandet",45,28,30
+"218",202005,"Kontorarbeid","38 Telemark og Vestfold",42,60,55
+"219",202005,"Kontorarbeid","38 Telemark og Vestfold",45,51,50
+"220",202005,"Kontorarbeid","42 Agder",42,17,17
+"221",202005,"Kontorarbeid","42 Agder",45,46,47
+"222",202005,"Kontorarbeid","46 Vestland",42,9,8
+"223",202005,"Kontorarbeid","46 Vestland",45,83,82
+"224",202005,"Kontorarbeid","50 Trøndelag",42,27,27
+"225",202005,"Kontorarbeid","50 Trøndelag",45,80,77
+"226",202005,"Kontorarbeid","54 Finnmark og Troms",42,6,5
+"227",202005,"Kontorarbeid","54 Finnmark og Troms",45,22,23
+"228",202005,"Ledere","03 Oslo",42,2,2
+"229",202005,"Ledere","03 Oslo",45,221,233
+"230",202005,"Ledere","11 Rogaland",45,37,39
+"231",202005,"Ledere","15 Møre og Romsdal",42,1,1
+"232",202005,"Ledere","15 Møre og Romsdal",45,17,17
+"233",202005,"Ledere","18 Nordland",45,18,19
+"234",202005,"Ledere","30 Viken",45,84,86
+"235",202005,"Ledere","34 Innlandet",45,24,24
+"236",202005,"Ledere","38 Telemark og Vestfold",42,2,2
+"237",202005,"Ledere","38 Telemark og Vestfold",45,23,24
+"238",202005,"Ledere","42 Agder",45,19,17
+"239",202005,"Ledere","46 Vestland",45,57,57
+"240",202005,"Ledere","50 Trøndelag",45,41,38
+"241",202005,"Ledere","54 Finnmark og Troms",45,28,29
+"242",202005,"Ledere","UTLAND",45,1,NA
+"243",202005,"Meglere og konsulenter","03 Oslo",42,2,2
+"244",202005,"Meglere og konsulenter","03 Oslo",45,284,285
+"245",202005,"Meglere og konsulenter","11 Rogaland",42,1,1
+"246",202005,"Meglere og konsulenter","11 Rogaland",45,51,45
+"247",202005,"Meglere og konsulenter","15 Møre og Romsdal",42,3,3
+"248",202005,"Meglere og konsulenter","15 Møre og Romsdal",45,16,16
+"249",202005,"Meglere og konsulenter","18 Nordland",45,24,22
+"250",202005,"Meglere og konsulenter","30 Viken",42,6,6
+"251",202005,"Meglere og konsulenter","30 Viken",45,102,104
+"252",202005,"Meglere og konsulenter","34 Innlandet",42,3,3
+"253",202005,"Meglere og konsulenter","34 Innlandet",45,41,38
+"254",202005,"Meglere og konsulenter","38 Telemark og Vestfold",42,3,4
+"255",202005,"Meglere og konsulenter","38 Telemark og Vestfold",45,44,41
+"256",202005,"Meglere og konsulenter","42 Agder",42,6,5
+"257",202005,"Meglere og konsulenter","42 Agder",45,20,19
+"258",202005,"Meglere og konsulenter","46 Vestland",42,6,6
+"259",202005,"Meglere og konsulenter","46 Vestland",45,99,96
+"260",202005,"Meglere og konsulenter","50 Trøndelag",42,9,9
+"261",202005,"Meglere og konsulenter","50 Trøndelag",45,103,100
+"262",202005,"Meglere og konsulenter","54 Finnmark og Troms",45,35,35
+"263",202005,"Meglere og konsulenter","99 øvrige omrøder",45,2,2
+"264",202005,"Meglere og konsulenter","UKJENT",45,NA,1
+"265",202005,"Reiseliv og transport","03 Oslo",42,53,55
+"266",202005,"Reiseliv og transport","03 Oslo",45,165,156
+"267",202005,"Reiseliv og transport","11 Rogaland",42,7,7
+"268",202005,"Reiseliv og transport","11 Rogaland",45,66,68
+"269",202005,"Reiseliv og transport","15 Møre og Romsdal",42,4,4
+"270",202005,"Reiseliv og transport","15 Møre og Romsdal",45,53,54
+"271",202005,"Reiseliv og transport","18 Nordland",42,11,11
+"272",202005,"Reiseliv og transport","18 Nordland",45,76,72
+"273",202005,"Reiseliv og transport","30 Viken",42,45,44
+"274",202005,"Reiseliv og transport","30 Viken",45,335,328
+"275",202005,"Reiseliv og transport","34 Innlandet",42,16,14
+"276",202005,"Reiseliv og transport","34 Innlandet",45,60,60
+"277",202005,"Reiseliv og transport","38 Telemark og Vestfold",42,68,67
+"278",202005,"Reiseliv og transport","38 Telemark og Vestfold",45,101,97
+"279",202005,"Reiseliv og transport","42 Agder",42,40,40
+"280",202005,"Reiseliv og transport","42 Agder",45,31,23
+"281",202005,"Reiseliv og transport","46 Vestland",42,14,14
+"282",202005,"Reiseliv og transport","46 Vestland",45,90,90
+"283",202005,"Reiseliv og transport","50 Trøndelag",42,29,29
+"284",202005,"Reiseliv og transport","50 Trøndelag",45,71,66
+"285",202005,"Reiseliv og transport","54 Finnmark og Troms",42,9,9
+"286",202005,"Reiseliv og transport","54 Finnmark og Troms",45,48,45
+"287",202005,"Serviceyrker og annet arbeid","03 Oslo",42,12,14
+"288",202005,"Serviceyrker og annet arbeid","03 Oslo",45,382,377
+"289",202005,"Serviceyrker og annet arbeid","11 Rogaland",42,12,14
+"290",202005,"Serviceyrker og annet arbeid","11 Rogaland",45,124,123
+"291",202005,"Serviceyrker og annet arbeid","15 Møre og Romsdal",42,24,24
+"292",202005,"Serviceyrker og annet arbeid","15 Møre og Romsdal",45,100,98
+"293",202005,"Serviceyrker og annet arbeid","18 Nordland",36,1,NA
+"294",202005,"Serviceyrker og annet arbeid","18 Nordland",42,38,38
+"295",202005,"Serviceyrker og annet arbeid","18 Nordland",45,66,68
+"296",202005,"Serviceyrker og annet arbeid","30 Viken",42,86,83
+"297",202005,"Serviceyrker og annet arbeid","30 Viken",45,236,235
+"298",202005,"Serviceyrker og annet arbeid","34 Innlandet",42,37,32
+"299",202005,"Serviceyrker og annet arbeid","34 Innlandet",45,177,181
+"300",202005,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",42,49,52
+"301",202005,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",45,67,66
+"302",202005,"Serviceyrker og annet arbeid","42 Agder",42,34,34
+"303",202005,"Serviceyrker og annet arbeid","42 Agder",45,66,65
+"304",202005,"Serviceyrker og annet arbeid","46 Vestland",42,27,26
+"305",202005,"Serviceyrker og annet arbeid","46 Vestland",45,162,147
+"306",202005,"Serviceyrker og annet arbeid","50 Trøndelag",42,107,107
+"307",202005,"Serviceyrker og annet arbeid","50 Trøndelag",45,143,132
+"308",202005,"Serviceyrker og annet arbeid","54 Finnmark og Troms",42,23,23
+"309",202005,"Serviceyrker og annet arbeid","54 Finnmark og Troms",45,92,78
+"310",202005,"Serviceyrker og annet arbeid","99 øvrige omrøder",45,1,1
+"311",202005,"Undervisning","03 Oslo",42,1,1
+"312",202005,"Undervisning","03 Oslo",45,617,610
+"313",202005,"Undervisning","11 Rogaland",42,1,1
+"314",202005,"Undervisning","11 Rogaland",45,236,237
+"315",202005,"Undervisning","15 Møre og Romsdal",45,92,90
+"316",202005,"Undervisning","18 Nordland",42,2,2
+"317",202005,"Undervisning","18 Nordland",45,131,132
+"318",202005,"Undervisning","30 Viken",45,677,661
+"319",202005,"Undervisning","34 Innlandet",45,169,166
+"320",202005,"Undervisning","38 Telemark og Vestfold",42,5,5
+"321",202005,"Undervisning","38 Telemark og Vestfold",45,191,189
+"322",202005,"Undervisning","42 Agder",42,2,2
+"323",202005,"Undervisning","42 Agder",45,122,121
+"324",202005,"Undervisning","46 Vestland",42,1,1
+"325",202005,"Undervisning","46 Vestland",45,392,373
+"326",202005,"Undervisning","50 Trøndelag",42,7,7
+"327",202005,"Undervisning","50 Trøndelag",45,319,234
+"328",202005,"Undervisning","54 Finnmark og Troms",42,2,2
+"329",202005,"Undervisning","54 Finnmark og Troms",45,236,232
+"330",202005,"Undervisning","99 øvrige omrøder",45,2,2
+"331",202006,"Akademiske yrker","03 Oslo",42,4,4
+"332",202006,"Akademiske yrker","03 Oslo",45,563,559
+"333",202006,"Akademiske yrker","11 Rogaland",42,6,6
+"334",202006,"Akademiske yrker","11 Rogaland",45,117,121
+"335",202006,"Akademiske yrker","15 Møre og Romsdal",45,42,39
+"336",202006,"Akademiske yrker","18 Nordland",42,4,4
+"337",202006,"Akademiske yrker","18 Nordland",45,52,53
+"338",202006,"Akademiske yrker","30 Viken",42,4,4
+"339",202006,"Akademiske yrker","30 Viken",45,207,211
+"340",202006,"Akademiske yrker","34 Innlandet",42,2,2
+"341",202006,"Akademiske yrker","34 Innlandet",45,45,44
+"342",202006,"Akademiske yrker","38 Telemark og Vestfold",42,1,1
+"343",202006,"Akademiske yrker","38 Telemark og Vestfold",45,57,57
+"344",202006,"Akademiske yrker","42 Agder",42,6,6
+"345",202006,"Akademiske yrker","42 Agder",45,77,76
+"346",202006,"Akademiske yrker","46 Vestland",42,1,1
+"347",202006,"Akademiske yrker","46 Vestland",45,170,164
+"348",202006,"Akademiske yrker","50 Trøndelag",42,8,8
+"349",202006,"Akademiske yrker","50 Trøndelag",45,119,119
+"350",202006,"Akademiske yrker","54 Finnmark og Troms",42,2,2
+"351",202006,"Akademiske yrker","54 Finnmark og Troms",45,106,101
+"352",202006,"Akademiske yrker","99 øvrige omrøder",45,1,1
+"353",202006,"Akademiske yrker","UTLAND",45,1,NA
+"354",202006,"Barne- og ungdomsarbeid","03 Oslo",42,7,12
+"355",202006,"Barne- og ungdomsarbeid","03 Oslo",45,230,217
+"356",202006,"Barne- og ungdomsarbeid","11 Rogaland",42,4,4
+"357",202006,"Barne- og ungdomsarbeid","11 Rogaland",45,55,55
+"358",202006,"Barne- og ungdomsarbeid","15 Møre og Romsdal",42,3,2
+"359",202006,"Barne- og ungdomsarbeid","15 Møre og Romsdal",45,59,59
+"360",202006,"Barne- og ungdomsarbeid","18 Nordland",42,8,8
+"361",202006,"Barne- og ungdomsarbeid","18 Nordland",45,37,37
+"362",202006,"Barne- og ungdomsarbeid","30 Viken",42,18,18
+"363",202006,"Barne- og ungdomsarbeid","30 Viken",45,210,207
+"364",202006,"Barne- og ungdomsarbeid","34 Innlandet",42,6,6
+"365",202006,"Barne- og ungdomsarbeid","34 Innlandet",45,28,38
+"366",202006,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",42,2,2
+"367",202006,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",45,50,51
+"368",202006,"Barne- og ungdomsarbeid","42 Agder",42,5,5
+"369",202006,"Barne- og ungdomsarbeid","42 Agder",45,43,43
+"370",202006,"Barne- og ungdomsarbeid","46 Vestland",42,7,7
+"371",202006,"Barne- og ungdomsarbeid","46 Vestland",45,243,243
+"372",202006,"Barne- og ungdomsarbeid","50 Trøndelag",42,8,6
+"373",202006,"Barne- og ungdomsarbeid","50 Trøndelag",45,111,97
+"374",202006,"Barne- og ungdomsarbeid","54 Finnmark og Troms",42,2,5
+"375",202006,"Barne- og ungdomsarbeid","54 Finnmark og Troms",45,73,89
+"376",202006,"Butikk- og salgsarbeid","03 Oslo",42,29,28
+"377",202006,"Butikk- og salgsarbeid","03 Oslo",45,697,723
+"378",202006,"Butikk- og salgsarbeid","11 Rogaland",42,24,25
+"379",202006,"Butikk- og salgsarbeid","11 Rogaland",45,154,156
+"380",202006,"Butikk- og salgsarbeid","15 Møre og Romsdal",42,16,15
+"381",202006,"Butikk- og salgsarbeid","15 Møre og Romsdal",45,139,145
+"382",202006,"Butikk- og salgsarbeid","18 Nordland",42,19,19
+"383",202006,"Butikk- og salgsarbeid","18 Nordland",45,90,90
+"384",202006,"Butikk- og salgsarbeid","30 Viken",42,43,42
+"385",202006,"Butikk- og salgsarbeid","30 Viken",45,446,448
+"386",202006,"Butikk- og salgsarbeid","34 Innlandet",42,37,37
+"387",202006,"Butikk- og salgsarbeid","34 Innlandet",45,143,146
+"388",202006,"Butikk- og salgsarbeid","38 Telemark og Vestfold",42,100,96
+"389",202006,"Butikk- og salgsarbeid","38 Telemark og Vestfold",45,159,167
+"390",202006,"Butikk- og salgsarbeid","42 Agder",42,42,43
+"391",202006,"Butikk- og salgsarbeid","42 Agder",45,123,128
+"392",202006,"Butikk- og salgsarbeid","46 Vestland",42,23,23
+"393",202006,"Butikk- og salgsarbeid","46 Vestland",45,236,219
+"394",202006,"Butikk- og salgsarbeid","50 Trøndelag",42,36,36
+"395",202006,"Butikk- og salgsarbeid","50 Trøndelag",45,243,247
+"396",202006,"Butikk- og salgsarbeid","54 Finnmark og Troms",42,44,44
+"397",202006,"Butikk- og salgsarbeid","54 Finnmark og Troms",45,115,117
+"398",202006,"Butikk- og salgsarbeid","99 øvrige omrøder",45,1,1
+"399",202006,"Bygg og anlegg","03 Oslo",42,23,74
+"400",202006,"Bygg og anlegg","03 Oslo",45,809,788
+"401",202006,"Bygg og anlegg","11 Rogaland",42,403,390
+"402",202006,"Bygg og anlegg","11 Rogaland",45,223,210
+"403",202006,"Bygg og anlegg","15 Møre og Romsdal",42,30,19
+"404",202006,"Bygg og anlegg","15 Møre og Romsdal",45,273,276
+"405",202006,"Bygg og anlegg","18 Nordland",42,29,30
+"406",202006,"Bygg og anlegg","18 Nordland",45,156,151
+"407",202006,"Bygg og anlegg","30 Viken",42,58,64
+"408",202006,"Bygg og anlegg","30 Viken",45,526,562
+"409",202006,"Bygg og anlegg","34 Innlandet",42,34,33
+"410",202006,"Bygg og anlegg","34 Innlandet",45,99,99
+"411",202006,"Bygg og anlegg","38 Telemark og Vestfold",42,98,62
+"412",202006,"Bygg og anlegg","38 Telemark og Vestfold",45,190,197
+"413",202006,"Bygg og anlegg","42 Agder",42,51,48
+"414",202006,"Bygg og anlegg","42 Agder",45,68,67
+"415",202006,"Bygg og anlegg","46 Vestland",42,47,43
+"416",202006,"Bygg og anlegg","46 Vestland",45,566,563
+"417",202006,"Bygg og anlegg","50 Trøndelag",42,137,139
+"418",202006,"Bygg og anlegg","50 Trøndelag",45,420,426
+"419",202006,"Bygg og anlegg","54 Finnmark og Troms",42,37,36
+"420",202006,"Bygg og anlegg","54 Finnmark og Troms",45,144,143
+"421",202006,"Helse, pleie og omsorg","03 Oslo",42,4,9
+"422",202006,"Helse, pleie og omsorg","03 Oslo",45,1059,1098
+"423",202006,"Helse, pleie og omsorg","11 Rogaland",42,17,12
+"424",202006,"Helse, pleie og omsorg","11 Rogaland",45,574,556
+"425",202006,"Helse, pleie og omsorg","15 Møre og Romsdal",42,1,1
+"426",202006,"Helse, pleie og omsorg","15 Møre og Romsdal",45,308,293
+"427",202006,"Helse, pleie og omsorg","18 Nordland",42,26,26
+"428",202006,"Helse, pleie og omsorg","18 Nordland",45,400,400
+"429",202006,"Helse, pleie og omsorg","30 Viken",42,53,53
+"430",202006,"Helse, pleie og omsorg","30 Viken",45,1352,1279
+"431",202006,"Helse, pleie og omsorg","34 Innlandet",42,17,15
+"432",202006,"Helse, pleie og omsorg","34 Innlandet",45,368,352
+"433",202006,"Helse, pleie og omsorg","38 Telemark og Vestfold",42,27,27
+"434",202006,"Helse, pleie og omsorg","38 Telemark og Vestfold",45,435,410
+"435",202006,"Helse, pleie og omsorg","42 Agder",42,21,21
+"436",202006,"Helse, pleie og omsorg","42 Agder",45,266,265
+"437",202006,"Helse, pleie og omsorg","46 Vestland",42,20,20
+"438",202006,"Helse, pleie og omsorg","46 Vestland",45,780,714
+"439",202006,"Helse, pleie og omsorg","50 Trøndelag",42,35,33
+"440",202006,"Helse, pleie og omsorg","50 Trøndelag",45,625,525
+"441",202006,"Helse, pleie og omsorg","54 Finnmark og Troms",42,11,11
+"442",202006,"Helse, pleie og omsorg","54 Finnmark og Troms",45,510,506
+"443",202006,"Helse, pleie og omsorg","99 øvrige omrøder",45,2,2
+"444",202006,"Helse, pleie og omsorg","UKJENT",45,NA,1
+"445",202006,"Helse, pleie og omsorg","UTLAND",45,2,NA
+"446",202006,"Industriarbeid","03 Oslo",42,15,30
+"447",202006,"Industriarbeid","03 Oslo",45,134,125
+"448",202006,"Industriarbeid","11 Rogaland",42,161,160
+"449",202006,"Industriarbeid","11 Rogaland",45,163,154
+"450",202006,"Industriarbeid","15 Møre og Romsdal",42,11,9
+"451",202006,"Industriarbeid","15 Møre og Romsdal",45,93,91
+"452",202006,"Industriarbeid","18 Nordland",42,26,26
+"453",202006,"Industriarbeid","18 Nordland",45,72,70
+"454",202006,"Industriarbeid","30 Viken",42,54,59
+"455",202006,"Industriarbeid","30 Viken",45,227,231
+"456",202006,"Industriarbeid","34 Innlandet",42,30,24
+"457",202006,"Industriarbeid","34 Innlandet",45,47,48
+"458",202006,"Industriarbeid","38 Telemark og Vestfold",42,81,76
+"459",202006,"Industriarbeid","38 Telemark og Vestfold",45,99,109
+"460",202006,"Industriarbeid","42 Agder",42,37,37
+"461",202006,"Industriarbeid","42 Agder",45,53,85
+"462",202006,"Industriarbeid","46 Vestland",42,37,34
+"463",202006,"Industriarbeid","46 Vestland",45,174,181
+"464",202006,"Industriarbeid","50 Trøndelag",42,111,116
+"465",202006,"Industriarbeid","50 Trøndelag",45,159,151
+"466",202006,"Industriarbeid","54 Finnmark og Troms",42,67,63
+"467",202006,"Industriarbeid","54 Finnmark og Troms",45,68,65
+"468",202006,"Industriarbeid","99 øvrige omrøder",45,5,5
+"469",202006,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",42,7,7
+"470",202006,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",45,4,4
+"471",202006,"Ingen yrkesbakgrunn eller uoppgitt","11 Rogaland",42,2,2
+"472",202006,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",42,9,8
+"473",202006,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",42,19,17
+"474",202006,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",45,1,1
+"475",202006,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",42,65,70
+"476",202006,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",45,4,4
+"477",202006,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",42,13,7
+"478",202006,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",45,1,1
+"479",202006,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",42,47,47
+"480",202006,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",45,1,1
+"481",202006,"Ingen yrkesbakgrunn eller uoppgitt","42 Agder",42,45,42
+"482",202006,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",42,14,14
+"483",202006,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",45,5,5
+"484",202006,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",42,21,19
+"485",202006,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",42,11,9
+"486",202006,"Ingen yrkesbakgrunn eller uoppgitt","UKJENT",42,NA,1
+"487",202006,"Ingeni?r- og ikt-fag","03 Oslo",42,12,13
+"488",202006,"Ingeni?r- og ikt-fag","03 Oslo",45,651,666
+"489",202006,"Ingeni?r- og ikt-fag","11 Rogaland",42,7,7
+"490",202006,"Ingeni?r- og ikt-fag","11 Rogaland",45,313,313
+"491",202006,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",42,4,4
+"492",202006,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",45,95,102
+"493",202006,"Ingeni?r- og ikt-fag","18 Nordland",42,8,8
+"494",202006,"Ingeni?r- og ikt-fag","18 Nordland",45,55,54
+"495",202006,"Ingeni?r- og ikt-fag","30 Viken",42,19,18
+"496",202006,"Ingeni?r- og ikt-fag","30 Viken",45,454,459
+"497",202006,"Ingeni?r- og ikt-fag","34 Innlandet",42,3,3
+"498",202006,"Ingeni?r- og ikt-fag","34 Innlandet",45,53,52
+"499",202006,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",42,15,15
+"500",202006,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",45,97,94
+"501",202006,"Ingeni?r- og ikt-fag","42 Agder",42,8,8
+"502",202006,"Ingeni?r- og ikt-fag","42 Agder",45,55,53
+"503",202006,"Ingeni?r- og ikt-fag","46 Vestland",42,16,16
+"504",202006,"Ingeni?r- og ikt-fag","46 Vestland",45,265,257
+"505",202006,"Ingeni?r- og ikt-fag","50 Trøndelag",42,22,21
+"506",202006,"Ingeni?r- og ikt-fag","50 Trøndelag",45,204,199
+"507",202006,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",42,3,3
+"508",202006,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",45,114,110
+"509",202006,"Ingeni?r- og ikt-fag","99 øvrige omrøder",45,3,3
+"510",202006,"Ingeni?r- og ikt-fag","UKJENT",45,NA,1
+"511",202006,"Jordbruk, skogbruk og fiske","03 Oslo",42,NA,1
+"512",202006,"Jordbruk, skogbruk og fiske","03 Oslo",45,20,18
+"513",202006,"Jordbruk, skogbruk og fiske","11 Rogaland",42,10,10
+"514",202006,"Jordbruk, skogbruk og fiske","11 Rogaland",45,8,8
+"515",202006,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",42,10,10
+"516",202006,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",45,44,44
+"517",202006,"Jordbruk, skogbruk og fiske","18 Nordland",42,11,10
+"518",202006,"Jordbruk, skogbruk og fiske","18 Nordland",45,24,25
+"519",202006,"Jordbruk, skogbruk og fiske","30 Viken",42,35,35
+"520",202006,"Jordbruk, skogbruk og fiske","30 Viken",45,24,28
+"521",202006,"Jordbruk, skogbruk og fiske","34 Innlandet",42,15,15
+"522",202006,"Jordbruk, skogbruk og fiske","34 Innlandet",45,7,7
+"523",202006,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",42,13,12
+"524",202006,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",45,13,13
+"525",202006,"Jordbruk, skogbruk og fiske","42 Agder",42,1,1
+"526",202006,"Jordbruk, skogbruk og fiske","46 Vestland",42,8,8
+"527",202006,"Jordbruk, skogbruk og fiske","46 Vestland",45,86,86
+"528",202006,"Jordbruk, skogbruk og fiske","50 Trøndelag",42,39,38
+"529",202006,"Jordbruk, skogbruk og fiske","50 Trøndelag",45,21,21
+"530",202006,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",42,16,16
+"531",202006,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",45,11,12
+"532",202006,"Kontorarbeid","03 Oslo",42,41,41
+"533",202006,"Kontorarbeid","03 Oslo",45,315,302
+"534",202006,"Kontorarbeid","11 Rogaland",42,29,29
+"535",202006,"Kontorarbeid","11 Rogaland",45,107,96
+"536",202006,"Kontorarbeid","15 Møre og Romsdal",42,7,7
+"537",202006,"Kontorarbeid","15 Møre og Romsdal",45,38,37
+"538",202006,"Kontorarbeid","18 Nordland",42,11,10
+"539",202006,"Kontorarbeid","18 Nordland",45,45,44
+"540",202006,"Kontorarbeid","30 Viken",42,43,42
+"541",202006,"Kontorarbeid","30 Viken",45,237,227
+"542",202006,"Kontorarbeid","34 Innlandet",42,14,14
+"543",202006,"Kontorarbeid","34 Innlandet",45,60,56
+"544",202006,"Kontorarbeid","38 Telemark og Vestfold",42,60,60
+"545",202006,"Kontorarbeid","38 Telemark og Vestfold",45,75,93
+"546",202006,"Kontorarbeid","42 Agder",42,20,20
+"547",202006,"Kontorarbeid","42 Agder",45,55,54
+"548",202006,"Kontorarbeid","46 Vestland",42,31,31
+"549",202006,"Kontorarbeid","46 Vestland",45,135,131
+"550",202006,"Kontorarbeid","50 Trøndelag",42,22,21
+"551",202006,"Kontorarbeid","50 Trøndelag",45,73,71
+"552",202006,"Kontorarbeid","54 Finnmark og Troms",42,22,22
+"553",202006,"Kontorarbeid","54 Finnmark og Troms",45,51,52
+"554",202006,"Ledere","03 Oslo",42,1,1
+"555",202006,"Ledere","03 Oslo",45,219,220
+"556",202006,"Ledere","11 Rogaland",45,48,48
+"557",202006,"Ledere","15 Møre og Romsdal",42,1,1
+"558",202006,"Ledere","15 Møre og Romsdal",45,66,66
+"559",202006,"Ledere","18 Nordland",45,26,27
+"560",202006,"Ledere","30 Viken",45,104,109
+"561",202006,"Ledere","34 Innlandet",45,26,25
+"562",202006,"Ledere","38 Telemark og Vestfold",42,1,1
+"563",202006,"Ledere","38 Telemark og Vestfold",45,34,39
+"564",202006,"Ledere","42 Agder",45,14,13
+"565",202006,"Ledere","46 Vestland",45,69,78
+"566",202006,"Ledere","50 Trøndelag",42,1,1
+"567",202006,"Ledere","50 Trøndelag",45,47,46
+"568",202006,"Ledere","54 Finnmark og Troms",42,2,2
+"569",202006,"Ledere","54 Finnmark og Troms",45,29,30
+"570",202006,"Meglere og konsulenter","03 Oslo",42,2,2
+"571",202006,"Meglere og konsulenter","03 Oslo",45,375,370
+"572",202006,"Meglere og konsulenter","11 Rogaland",42,2,2
+"573",202006,"Meglere og konsulenter","11 Rogaland",45,91,90
+"574",202006,"Meglere og konsulenter","15 Møre og Romsdal",42,1,1
+"575",202006,"Meglere og konsulenter","15 Møre og Romsdal",45,73,72
+"576",202006,"Meglere og konsulenter","18 Nordland",42,1,1
+"577",202006,"Meglere og konsulenter","18 Nordland",45,39,38
+"578",202006,"Meglere og konsulenter","30 Viken",42,11,11
+"579",202006,"Meglere og konsulenter","30 Viken",45,171,170
+"580",202006,"Meglere og konsulenter","34 Innlandet",42,2,2
+"581",202006,"Meglere og konsulenter","34 Innlandet",45,67,63
+"582",202006,"Meglere og konsulenter","38 Telemark og Vestfold",42,12,12
+"583",202006,"Meglere og konsulenter","38 Telemark og Vestfold",45,43,43
+"584",202006,"Meglere og konsulenter","42 Agder",42,2,2
+"585",202006,"Meglere og konsulenter","42 Agder",45,34,33
+"586",202006,"Meglere og konsulenter","46 Vestland",42,10,10
+"587",202006,"Meglere og konsulenter","46 Vestland",45,106,103
+"588",202006,"Meglere og konsulenter","50 Trøndelag",42,13,13
+"589",202006,"Meglere og konsulenter","50 Trøndelag",45,78,77
+"590",202006,"Meglere og konsulenter","54 Finnmark og Troms",42,1,1
+"591",202006,"Meglere og konsulenter","54 Finnmark og Troms",45,46,45
+"592",202006,"Meglere og konsulenter","99 øvrige omrøder",45,1,1
+"593",202006,"Reiseliv og transport","03 Oslo",42,11,15
+"594",202006,"Reiseliv og transport","03 Oslo",45,271,280
+"595",202006,"Reiseliv og transport","11 Rogaland",42,23,23
+"596",202006,"Reiseliv og transport","11 Rogaland",45,98,104
+"597",202006,"Reiseliv og transport","15 Møre og Romsdal",42,19,20
+"598",202006,"Reiseliv og transport","15 Møre og Romsdal",45,284,283
+"599",202006,"Reiseliv og transport","18 Nordland",42,24,23
+"600",202006,"Reiseliv og transport","18 Nordland",45,75,74
+"601",202006,"Reiseliv og transport","30 Viken",42,112,113
+"602",202006,"Reiseliv og transport","30 Viken",45,277,268
+"603",202006,"Reiseliv og transport","34 Innlandet",42,38,35
+"604",202006,"Reiseliv og transport","34 Innlandet",45,199,206
+"605",202006,"Reiseliv og transport","38 Telemark og Vestfold",42,116,120
+"606",202006,"Reiseliv og transport","38 Telemark og Vestfold",45,144,142
+"607",202006,"Reiseliv og transport","42 Agder",42,76,77
+"608",202006,"Reiseliv og transport","42 Agder",45,42,40
+"609",202006,"Reiseliv og transport","46 Vestland",42,57,57
+"610",202006,"Reiseliv og transport","46 Vestland",45,192,205
+"611",202006,"Reiseliv og transport","50 Trøndelag",42,70,70
+"612",202006,"Reiseliv og transport","50 Trøndelag",45,128,126
+"613",202006,"Reiseliv og transport","54 Finnmark og Troms",42,28,29
+"614",202006,"Reiseliv og transport","54 Finnmark og Troms",45,105,105
+"615",202006,"Reiseliv og transport","99 øvrige omrøder",45,1,1
+"616",202006,"Serviceyrker og annet arbeid","01 østfold",42,NA,1
+"617",202006,"Serviceyrker og annet arbeid","03 Oslo",42,9,11
+"618",202006,"Serviceyrker og annet arbeid","03 Oslo",45,215,199
+"619",202006,"Serviceyrker og annet arbeid","11 Rogaland",42,21,21
+"620",202006,"Serviceyrker og annet arbeid","11 Rogaland",45,154,159
+"621",202006,"Serviceyrker og annet arbeid","15 Møre og Romsdal",42,22,22
+"622",202006,"Serviceyrker og annet arbeid","15 Møre og Romsdal",45,123,117
+"623",202006,"Serviceyrker og annet arbeid","18 Nordland",42,25,25
+"624",202006,"Serviceyrker og annet arbeid","18 Nordland",45,59,60
+"625",202006,"Serviceyrker og annet arbeid","30 Viken",42,79,72
+"626",202006,"Serviceyrker og annet arbeid","30 Viken",45,421,414
+"627",202006,"Serviceyrker og annet arbeid","34 Innlandet",36,1,NA
+"628",202006,"Serviceyrker og annet arbeid","34 Innlandet",42,53,52
+"629",202006,"Serviceyrker og annet arbeid","34 Innlandet",45,122,124
+"630",202006,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",42,49,51
+"631",202006,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",45,135,141
+"632",202006,"Serviceyrker og annet arbeid","42 Agder",42,36,38
+"633",202006,"Serviceyrker og annet arbeid","42 Agder",45,103,102
+"634",202006,"Serviceyrker og annet arbeid","46 Vestland",42,41,41
+"635",202006,"Serviceyrker og annet arbeid","46 Vestland",45,244,240
+"636",202006,"Serviceyrker og annet arbeid","50 Trøndelag",42,64,64
+"637",202006,"Serviceyrker og annet arbeid","50 Trøndelag",45,122,115
+"638",202006,"Serviceyrker og annet arbeid","54 Finnmark og Troms",42,24,24
+"639",202006,"Serviceyrker og annet arbeid","54 Finnmark og Troms",45,166,163
+"640",202006,"Serviceyrker og annet arbeid","99 øvrige omrøder",45,2,2
+"641",202006,"Undervisning","03 Oslo",42,3,4
+"642",202006,"Undervisning","03 Oslo",45,540,559
+"643",202006,"Undervisning","11 Rogaland",42,3,3
+"644",202006,"Undervisning","11 Rogaland",45,210,215
+"645",202006,"Undervisning","15 Møre og Romsdal",45,146,147
+"646",202006,"Undervisning","18 Nordland",45,132,131
+"647",202006,"Undervisning","30 Viken",42,8,8
+"648",202006,"Undervisning","30 Viken",45,541,534
+"649",202006,"Undervisning","34 Innlandet",42,4,4
+"650",202006,"Undervisning","34 Innlandet",45,157,159
+"651",202006,"Undervisning","38 Telemark og Vestfold",42,3,3
+"652",202006,"Undervisning","38 Telemark og Vestfold",45,122,128
+"653",202006,"Undervisning","42 Agder",42,2,1
+"654",202006,"Undervisning","42 Agder",45,95,95
+"655",202006,"Undervisning","46 Vestland",42,7,7
+"656",202006,"Undervisning","46 Vestland",45,431,421
+"657",202006,"Undervisning","50 Trøndelag",42,3,3
+"658",202006,"Undervisning","50 Trøndelag",45,291,278
+"659",202006,"Undervisning","54 Finnmark og Troms",42,1,1
+"660",202006,"Undervisning","54 Finnmark og Troms",45,252,242
+"661",202006,"Undervisning","99 øvrige omrøder",45,1,1
+"662",202007,"Akademiske yrker","03 Oslo",45,257,239
+"663",202007,"Akademiske yrker","11 Rogaland",45,71,69
+"664",202007,"Akademiske yrker","15 Møre og Romsdal",42,1,1
+"665",202007,"Akademiske yrker","15 Møre og Romsdal",45,22,23
+"666",202007,"Akademiske yrker","18 Nordland",42,1,1
+"667",202007,"Akademiske yrker","18 Nordland",45,46,46
+"668",202007,"Akademiske yrker","30 Viken",45,134,128
+"669",202007,"Akademiske yrker","34 Innlandet",42,2,2
+"670",202007,"Akademiske yrker","34 Innlandet",45,52,47
+"671",202007,"Akademiske yrker","38 Telemark og Vestfold",42,4,4
+"672",202007,"Akademiske yrker","38 Telemark og Vestfold",45,32,30
+"673",202007,"Akademiske yrker","42 Agder",42,1,1
+"674",202007,"Akademiske yrker","42 Agder",45,41,36
+"675",202007,"Akademiske yrker","46 Vestland",45,88,80
+"676",202007,"Akademiske yrker","50 Trøndelag",42,7,6
+"677",202007,"Akademiske yrker","50 Trøndelag",45,72,67
+"678",202007,"Akademiske yrker","54 Finnmark og Troms",42,1,1
+"679",202007,"Akademiske yrker","54 Finnmark og Troms",45,57,58
+"680",202007,"Akademiske yrker","99 øvrige omrøder",45,1,NA
+"681",202007,"Barne- og ungdomsarbeid","03 Oslo",45,48,38
+"682",202007,"Barne- og ungdomsarbeid","11 Rogaland",45,12,9
+"683",202007,"Barne- og ungdomsarbeid","15 Møre og Romsdal",42,3,3
+"684",202007,"Barne- og ungdomsarbeid","15 Møre og Romsdal",45,62,74
+"685",202007,"Barne- og ungdomsarbeid","18 Nordland",42,2,2
+"686",202007,"Barne- og ungdomsarbeid","18 Nordland",45,17,17
+"687",202007,"Barne- og ungdomsarbeid","30 Viken",42,4,4
+"688",202007,"Barne- og ungdomsarbeid","30 Viken",45,61,60
+"689",202007,"Barne- og ungdomsarbeid","34 Innlandet",42,1,NA
+"690",202007,"Barne- og ungdomsarbeid","34 Innlandet",45,20,15
+"691",202007,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",42,5,5
+"692",202007,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",45,9,9
+"693",202007,"Barne- og ungdomsarbeid","42 Agder",42,1,1
+"694",202007,"Barne- og ungdomsarbeid","42 Agder",45,8,3
+"695",202007,"Barne- og ungdomsarbeid","46 Vestland",42,2,2
+"696",202007,"Barne- og ungdomsarbeid","46 Vestland",45,184,183
+"697",202007,"Barne- og ungdomsarbeid","50 Trøndelag",42,2,2
+"698",202007,"Barne- og ungdomsarbeid","50 Trøndelag",45,8,5
+"699",202007,"Barne- og ungdomsarbeid","54 Finnmark og Troms",42,1,1
+"700",202007,"Barne- og ungdomsarbeid","54 Finnmark og Troms",45,75,74
+"701",202007,"Butikk- og salgsarbeid","03 Oslo",42,8,8
+"702",202007,"Butikk- og salgsarbeid","03 Oslo",45,367,370
+"703",202007,"Butikk- og salgsarbeid","11 Rogaland",42,11,9
+"704",202007,"Butikk- og salgsarbeid","11 Rogaland",45,418,415
+"705",202007,"Butikk- og salgsarbeid","15 Møre og Romsdal",42,8,7
+"706",202007,"Butikk- og salgsarbeid","15 Møre og Romsdal",45,97,98
+"707",202007,"Butikk- og salgsarbeid","18 Nordland",42,14,13
+"708",202007,"Butikk- og salgsarbeid","18 Nordland",45,87,89
+"709",202007,"Butikk- og salgsarbeid","30 Viken",42,28,25
+"710",202007,"Butikk- og salgsarbeid","30 Viken",45,377,376
+"711",202007,"Butikk- og salgsarbeid","34 Innlandet",42,17,17
+"712",202007,"Butikk- og salgsarbeid","34 Innlandet",45,81,80
+"713",202007,"Butikk- og salgsarbeid","38 Telemark og Vestfold",42,38,38
+"714",202007,"Butikk- og salgsarbeid","38 Telemark og Vestfold",45,122,138
+"715",202007,"Butikk- og salgsarbeid","42 Agder",42,16,15
+"716",202007,"Butikk- og salgsarbeid","42 Agder",45,66,66
+"717",202007,"Butikk- og salgsarbeid","46 Vestland",42,14,12
+"718",202007,"Butikk- og salgsarbeid","46 Vestland",45,615,617
+"719",202007,"Butikk- og salgsarbeid","50 Trøndelag",42,28,26
+"720",202007,"Butikk- og salgsarbeid","50 Trøndelag",45,134,134
+"721",202007,"Butikk- og salgsarbeid","54 Finnmark og Troms",42,13,13
+"722",202007,"Butikk- og salgsarbeid","54 Finnmark og Troms",45,99,96
+"723",202007,"Bygg og anlegg","03 Oslo",42,40,40
+"724",202007,"Bygg og anlegg","03 Oslo",45,388,340
+"725",202007,"Bygg og anlegg","11 Rogaland",42,33,33
+"726",202007,"Bygg og anlegg","11 Rogaland",45,227,221
+"727",202007,"Bygg og anlegg","15 Møre og Romsdal",42,11,6
+"728",202007,"Bygg og anlegg","15 Møre og Romsdal",45,100,98
+"729",202007,"Bygg og anlegg","18 Nordland",42,4,4
+"730",202007,"Bygg og anlegg","18 Nordland",45,42,42
+"731",202007,"Bygg og anlegg","30 Viken",42,12,13
+"732",202007,"Bygg og anlegg","30 Viken",45,270,299
+"733",202007,"Bygg og anlegg","34 Innlandet",42,4,4
+"734",202007,"Bygg og anlegg","34 Innlandet",45,77,80
+"735",202007,"Bygg og anlegg","38 Telemark og Vestfold",42,29,28
+"736",202007,"Bygg og anlegg","38 Telemark og Vestfold",45,84,89
+"737",202007,"Bygg og anlegg","42 Agder",42,13,12
+"738",202007,"Bygg og anlegg","42 Agder",45,27,20
+"739",202007,"Bygg og anlegg","46 Vestland",42,89,94
+"740",202007,"Bygg og anlegg","46 Vestland",45,229,222
+"741",202007,"Bygg og anlegg","50 Trøndelag",42,45,45
+"742",202007,"Bygg og anlegg","50 Trøndelag",45,260,267
+"743",202007,"Bygg og anlegg","54 Finnmark og Troms",42,9,9
+"744",202007,"Bygg og anlegg","54 Finnmark og Troms",45,118,114
+"745",202007,"Helse, pleie og omsorg","03 Oslo",42,2,2
+"746",202007,"Helse, pleie og omsorg","03 Oslo",45,561,549
+"747",202007,"Helse, pleie og omsorg","11 Rogaland",42,3,3
+"748",202007,"Helse, pleie og omsorg","11 Rogaland",45,273,256
+"749",202007,"Helse, pleie og omsorg","15 Møre og Romsdal",42,7,7
+"750",202007,"Helse, pleie og omsorg","15 Møre og Romsdal",45,246,234
+"751",202007,"Helse, pleie og omsorg","18 Nordland",42,7,7
+"752",202007,"Helse, pleie og omsorg","18 Nordland",45,282,277
+"753",202007,"Helse, pleie og omsorg","30 Viken",42,67,62
+"754",202007,"Helse, pleie og omsorg","30 Viken",45,702,679
+"755",202007,"Helse, pleie og omsorg","34 Innlandet",42,15,13
+"756",202007,"Helse, pleie og omsorg","34 Innlandet",45,251,227
+"757",202007,"Helse, pleie og omsorg","38 Telemark og Vestfold",42,15,14
+"758",202007,"Helse, pleie og omsorg","38 Telemark og Vestfold",45,199,181
+"759",202007,"Helse, pleie og omsorg","42 Agder",42,1,1
+"760",202007,"Helse, pleie og omsorg","42 Agder",45,114,109
+"761",202007,"Helse, pleie og omsorg","46 Vestland",42,3,3
+"762",202007,"Helse, pleie og omsorg","46 Vestland",45,430,361
+"763",202007,"Helse, pleie og omsorg","50 Trøndelag",42,22,21
+"764",202007,"Helse, pleie og omsorg","50 Trøndelag",45,319,277
+"765",202007,"Helse, pleie og omsorg","54 Finnmark og Troms",42,13,12
+"766",202007,"Helse, pleie og omsorg","54 Finnmark og Troms",45,294,285
+"767",202007,"Helse, pleie og omsorg","99 øvrige omrøder",45,1,1
+"768",202007,"Industriarbeid","03 Oslo",42,4,4
+"769",202007,"Industriarbeid","03 Oslo",45,77,76
+"770",202007,"Industriarbeid","11 Rogaland",42,14,14
+"771",202007,"Industriarbeid","11 Rogaland",45,145,150
+"772",202007,"Industriarbeid","15 Møre og Romsdal",42,16,16
+"773",202007,"Industriarbeid","15 Møre og Romsdal",45,52,54
+"774",202007,"Industriarbeid","18 Nordland",42,14,13
+"775",202007,"Industriarbeid","18 Nordland",45,14,15
+"776",202007,"Industriarbeid","30 Viken",42,18,17
+"777",202007,"Industriarbeid","30 Viken",45,116,112
+"778",202007,"Industriarbeid","34 Innlandet",42,17,17
+"779",202007,"Industriarbeid","34 Innlandet",45,35,35
+"780",202007,"Industriarbeid","38 Telemark og Vestfold",42,33,33
+"781",202007,"Industriarbeid","38 Telemark og Vestfold",45,51,42
+"782",202007,"Industriarbeid","42 Agder",42,11,11
+"783",202007,"Industriarbeid","42 Agder",45,26,25
+"784",202007,"Industriarbeid","46 Vestland",36,1,NA
+"785",202007,"Industriarbeid","46 Vestland",42,41,41
+"786",202007,"Industriarbeid","46 Vestland",45,117,108
+"787",202007,"Industriarbeid","50 Trøndelag",42,96,98
+"788",202007,"Industriarbeid","50 Trøndelag",45,85,84
+"789",202007,"Industriarbeid","54 Finnmark og Troms",42,15,13
+"790",202007,"Industriarbeid","54 Finnmark og Troms",45,34,31
+"791",202007,"Industriarbeid","UTLAND",36,4,NA
+"792",202007,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",42,8,9
+"793",202007,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",45,1,NA
+"794",202007,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",42,4,5
+"795",202007,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",45,1,1
+"796",202007,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",42,12,9
+"797",202007,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",42,20,16
+"798",202007,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",45,4,4
+"799",202007,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",42,9,10
+"800",202007,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",42,25,23
+"801",202007,"Ingen yrkesbakgrunn eller uoppgitt","42 Agder",42,2,3
+"802",202007,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",42,15,15
+"803",202007,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",42,16,13
+"804",202007,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",45,NA,1
+"805",202007,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",42,14,14
+"806",202007,"Ingeni?r- og ikt-fag","03 Oslo",42,2,2
+"807",202007,"Ingeni?r- og ikt-fag","03 Oslo",45,570,554
+"808",202007,"Ingeni?r- og ikt-fag","11 Rogaland",42,3,3
+"809",202007,"Ingeni?r- og ikt-fag","11 Rogaland",45,209,213
+"810",202007,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",42,1,2
+"811",202007,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",45,24,26
+"812",202007,"Ingeni?r- og ikt-fag","18 Nordland",42,1,1
+"813",202007,"Ingeni?r- og ikt-fag","18 Nordland",45,57,53
+"814",202007,"Ingeni?r- og ikt-fag","30 Viken",42,16,15
+"815",202007,"Ingeni?r- og ikt-fag","30 Viken",45,289,285
+"816",202007,"Ingeni?r- og ikt-fag","34 Innlandet",42,2,2
+"817",202007,"Ingeni?r- og ikt-fag","34 Innlandet",45,55,52
+"818",202007,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",42,7,7
+"819",202007,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",45,42,39
+"820",202007,"Ingeni?r- og ikt-fag","42 Agder",42,2,2
+"821",202007,"Ingeni?r- og ikt-fag","42 Agder",45,36,37
+"822",202007,"Ingeni?r- og ikt-fag","46 Vestland",42,5,5
+"823",202007,"Ingeni?r- og ikt-fag","46 Vestland",45,195,193
+"824",202007,"Ingeni?r- og ikt-fag","50 Trøndelag",42,8,8
+"825",202007,"Ingeni?r- og ikt-fag","50 Trøndelag",45,164,159
+"826",202007,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",42,2,2
+"827",202007,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",45,69,59
+"828",202007,"Ingeni?r- og ikt-fag","99 øvrige omrøder",45,4,4
+"829",202007,"Ingeni?r- og ikt-fag","UKJENT",45,NA,1
+"830",202007,"Ingeni?r- og ikt-fag","UTLAND",45,4,NA
+"831",202007,"Jordbruk, skogbruk og fiske","03 Oslo",45,5,5
+"832",202007,"Jordbruk, skogbruk og fiske","11 Rogaland",42,3,3
+"833",202007,"Jordbruk, skogbruk og fiske","11 Rogaland",45,2,2
+"834",202007,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",45,2,2
+"835",202007,"Jordbruk, skogbruk og fiske","18 Nordland",42,3,3
+"836",202007,"Jordbruk, skogbruk og fiske","18 Nordland",45,7,7
+"837",202007,"Jordbruk, skogbruk og fiske","30 Viken",42,6,8
+"838",202007,"Jordbruk, skogbruk og fiske","30 Viken",45,15,13
+"839",202007,"Jordbruk, skogbruk og fiske","34 Innlandet",42,7,7
+"840",202007,"Jordbruk, skogbruk og fiske","34 Innlandet",45,8,7
+"841",202007,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",42,7,7
+"842",202007,"Jordbruk, skogbruk og fiske","42 Agder",45,1,1
+"843",202007,"Jordbruk, skogbruk og fiske","46 Vestland",42,3,3
+"844",202007,"Jordbruk, skogbruk og fiske","46 Vestland",45,31,31
+"845",202007,"Jordbruk, skogbruk og fiske","50 Trøndelag",42,6,4
+"846",202007,"Jordbruk, skogbruk og fiske","50 Trøndelag",45,23,23
+"847",202007,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",45,46,46
+"848",202007,"Kontorarbeid","03 Oslo",36,2,NA
+"849",202007,"Kontorarbeid","03 Oslo",42,8,8
+"850",202007,"Kontorarbeid","03 Oslo",45,221,217
+"851",202007,"Kontorarbeid","11 Rogaland",42,5,5
+"852",202007,"Kontorarbeid","11 Rogaland",45,55,54
+"853",202007,"Kontorarbeid","15 Møre og Romsdal",42,2,2
+"854",202007,"Kontorarbeid","15 Møre og Romsdal",45,42,41
+"855",202007,"Kontorarbeid","18 Nordland",42,3,3
+"856",202007,"Kontorarbeid","18 Nordland",45,26,24
+"857",202007,"Kontorarbeid","30 Viken",42,15,15
+"858",202007,"Kontorarbeid","30 Viken",45,206,202
+"859",202007,"Kontorarbeid","34 Innlandet",42,7,7
+"860",202007,"Kontorarbeid","34 Innlandet",45,33,32
+"861",202007,"Kontorarbeid","38 Telemark og Vestfold",42,18,18
+"862",202007,"Kontorarbeid","38 Telemark og Vestfold",45,23,24
+"863",202007,"Kontorarbeid","42 Agder",42,6,6
+"864",202007,"Kontorarbeid","42 Agder",45,46,46
+"865",202007,"Kontorarbeid","46 Vestland",42,5,4
+"866",202007,"Kontorarbeid","46 Vestland",45,67,67
+"867",202007,"Kontorarbeid","50 Trøndelag",42,27,27
+"868",202007,"Kontorarbeid","50 Trøndelag",45,86,84
+"869",202007,"Kontorarbeid","54 Finnmark og Troms",42,18,18
+"870",202007,"Kontorarbeid","54 Finnmark og Troms",45,40,39
+"871",202007,"Kontorarbeid","99 øvrige omrøder",45,1,1
+"872",202007,"Kontorarbeid","UTLAND",45,1,NA
+"873",202007,"Ledere","03 Oslo",45,157,164
+"874",202007,"Ledere","11 Rogaland",45,12,14
+"875",202007,"Ledere","15 Møre og Romsdal",45,18,18
+"876",202007,"Ledere","18 Nordland",45,19,18
+"877",202007,"Ledere","30 Viken",45,85,83
+"878",202007,"Ledere","34 Innlandet",45,23,23
+"879",202007,"Ledere","38 Telemark og Vestfold",45,28,28
+"880",202007,"Ledere","42 Agder",45,14,13
+"881",202007,"Ledere","46 Vestland",45,50,43
+"882",202007,"Ledere","50 Trøndelag",42,2,2
+"883",202007,"Ledere","50 Trøndelag",45,38,36
+"884",202007,"Ledere","54 Finnmark og Troms",42,1,1
+"885",202007,"Ledere","54 Finnmark og Troms",45,16,15
+"886",202007,"Ledere","99 øvrige omrøder",45,1,1
+"887",202007,"Ledere","UTLAND",36,1,NA
+"888",202007,"Meglere og konsulenter","03 Oslo",36,1,NA
+"889",202007,"Meglere og konsulenter","03 Oslo",42,3,3
+"890",202007,"Meglere og konsulenter","03 Oslo",45,205,169
+"891",202007,"Meglere og konsulenter","11 Rogaland",45,64,59
+"892",202007,"Meglere og konsulenter","15 Møre og Romsdal",42,2,2
+"893",202007,"Meglere og konsulenter","15 Møre og Romsdal",45,39,39
+"894",202007,"Meglere og konsulenter","18 Nordland",42,1,1
+"895",202007,"Meglere og konsulenter","18 Nordland",45,34,36
+"896",202007,"Meglere og konsulenter","30 Viken",42,2,2
+"897",202007,"Meglere og konsulenter","30 Viken",45,90,89
+"898",202007,"Meglere og konsulenter","34 Innlandet",42,63,63
+"899",202007,"Meglere og konsulenter","34 Innlandet",45,105,101
+"900",202007,"Meglere og konsulenter","38 Telemark og Vestfold",42,3,3
+"901",202007,"Meglere og konsulenter","38 Telemark og Vestfold",45,34,63
+"902",202007,"Meglere og konsulenter","42 Agder",45,22,32
+"903",202007,"Meglere og konsulenter","46 Vestland",42,1,1
+"904",202007,"Meglere og konsulenter","46 Vestland",45,48,47
+"905",202007,"Meglere og konsulenter","50 Trøndelag",42,2,1
+"906",202007,"Meglere og konsulenter","50 Trøndelag",45,76,69
+"907",202007,"Meglere og konsulenter","54 Finnmark og Troms",45,42,37
+"908",202007,"Meglere og konsulenter","UTLAND",36,21,NA
+"909",202007,"Reiseliv og transport","03 Oslo",36,5,NA
+"910",202007,"Reiseliv og transport","03 Oslo",42,23,31
+"911",202007,"Reiseliv og transport","03 Oslo",45,391,389
+"912",202007,"Reiseliv og transport","11 Rogaland",42,11,11
+"913",202007,"Reiseliv og transport","11 Rogaland",45,68,68
+"914",202007,"Reiseliv og transport","15 Møre og Romsdal",42,16,16
+"915",202007,"Reiseliv og transport","15 Møre og Romsdal",45,81,71
+"916",202007,"Reiseliv og transport","18 Nordland",42,9,9
+"917",202007,"Reiseliv og transport","18 Nordland",45,47,47
+"918",202007,"Reiseliv og transport","30 Viken",42,37,37
+"919",202007,"Reiseliv og transport","30 Viken",45,423,346
+"920",202007,"Reiseliv og transport","34 Innlandet",42,17,17
+"921",202007,"Reiseliv og transport","34 Innlandet",45,53,47
+"922",202007,"Reiseliv og transport","38 Telemark og Vestfold",42,39,37
+"923",202007,"Reiseliv og transport","38 Telemark og Vestfold",45,81,82
+"924",202007,"Reiseliv og transport","42 Agder",42,22,21
+"925",202007,"Reiseliv og transport","42 Agder",45,14,17
+"926",202007,"Reiseliv og transport","46 Vestland",42,27,20
+"927",202007,"Reiseliv og transport","46 Vestland",45,137,136
+"928",202007,"Reiseliv og transport","50 Trøndelag",42,50,48
+"929",202007,"Reiseliv og transport","50 Trøndelag",45,88,87
+"930",202007,"Reiseliv og transport","54 Finnmark og Troms",36,10,NA
+"931",202007,"Reiseliv og transport","54 Finnmark og Troms",42,20,19
+"932",202007,"Reiseliv og transport","54 Finnmark og Troms",45,105,118
+"933",202007,"Serviceyrker og annet arbeid","03 Oslo",42,20,23
+"934",202007,"Serviceyrker og annet arbeid","03 Oslo",45,354,347
+"935",202007,"Serviceyrker og annet arbeid","11 Rogaland",42,18,18
+"936",202007,"Serviceyrker og annet arbeid","11 Rogaland",45,133,144
+"937",202007,"Serviceyrker og annet arbeid","15 Møre og Romsdal",42,8,8
+"938",202007,"Serviceyrker og annet arbeid","15 Møre og Romsdal",45,61,56
+"939",202007,"Serviceyrker og annet arbeid","18 Nordland",42,14,12
+"940",202007,"Serviceyrker og annet arbeid","18 Nordland",45,84,82
+"941",202007,"Serviceyrker og annet arbeid","30 Viken",42,45,43
+"942",202007,"Serviceyrker og annet arbeid","30 Viken",45,170,164
+"943",202007,"Serviceyrker og annet arbeid","34 Innlandet",42,28,27
+"944",202007,"Serviceyrker og annet arbeid","34 Innlandet",45,176,175
+"945",202007,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",42,32,31
+"946",202007,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",45,137,133
+"947",202007,"Serviceyrker og annet arbeid","42 Agder",42,25,23
+"948",202007,"Serviceyrker og annet arbeid","42 Agder",45,37,34
+"949",202007,"Serviceyrker og annet arbeid","46 Vestland",42,25,25
+"950",202007,"Serviceyrker og annet arbeid","46 Vestland",45,155,162
+"951",202007,"Serviceyrker og annet arbeid","50 Trøndelag",42,47,44
+"952",202007,"Serviceyrker og annet arbeid","50 Trøndelag",45,153,148
+"953",202007,"Serviceyrker og annet arbeid","54 Finnmark og Troms",42,11,11
+"954",202007,"Serviceyrker og annet arbeid","54 Finnmark og Troms",45,132,122
+"955",202007,"Serviceyrker og annet arbeid","99 øvrige omrøder",45,4,4
+"956",202007,"Serviceyrker og annet arbeid","UKJENT",45,NA,2
+"957",202007,"Undervisning","03 Oslo",42,1,1
+"958",202007,"Undervisning","03 Oslo",45,176,143
+"959",202007,"Undervisning","11 Rogaland",42,3,3
+"960",202007,"Undervisning","11 Rogaland",45,66,63
+"961",202007,"Undervisning","15 Møre og Romsdal",42,2,2
+"962",202007,"Undervisning","15 Møre og Romsdal",45,68,53
+"963",202007,"Undervisning","18 Nordland",42,2,2
+"964",202007,"Undervisning","18 Nordland",45,38,38
+"965",202007,"Undervisning","30 Viken",42,1,1
+"966",202007,"Undervisning","30 Viken",45,185,180
+"967",202007,"Undervisning","34 Innlandet",42,1,1
+"968",202007,"Undervisning","34 Innlandet",45,57,52
+"969",202007,"Undervisning","38 Telemark og Vestfold",42,2,2
+"970",202007,"Undervisning","38 Telemark og Vestfold",45,39,37
+"971",202007,"Undervisning","42 Agder",42,1,1
+"972",202007,"Undervisning","42 Agder",45,22,22
+"973",202007,"Undervisning","46 Vestland",42,1,1
+"974",202007,"Undervisning","46 Vestland",45,142,136
+"975",202007,"Undervisning","50 Trøndelag",42,2,2
+"976",202007,"Undervisning","50 Trøndelag",45,104,97
+"977",202007,"Undervisning","54 Finnmark og Troms",42,1,1
+"978",202007,"Undervisning","54 Finnmark og Troms",45,69,68
+"979",202007,"Undervisning","99 øvrige omrøder",45,NA,1
+"980",202008,"Akademiske yrker","03 Oslo",42,1,1
+"981",202008,"Akademiske yrker","03 Oslo",45,245,250
+"982",202008,"Akademiske yrker","11 Rogaland",42,1,1
+"983",202008,"Akademiske yrker","11 Rogaland",45,50,48
+"984",202008,"Akademiske yrker","15 Møre og Romsdal",42,1,1
+"985",202008,"Akademiske yrker","15 Møre og Romsdal",45,27,28
+"986",202008,"Akademiske yrker","18 Nordland",45,36,27
+"987",202008,"Akademiske yrker","30 Viken",42,2,2
+"988",202008,"Akademiske yrker","30 Viken",45,122,121
+"989",202008,"Akademiske yrker","34 Innlandet",45,36,35
+"990",202008,"Akademiske yrker","38 Telemark og Vestfold",42,1,1
+"991",202008,"Akademiske yrker","38 Telemark og Vestfold",45,40,42
+"992",202008,"Akademiske yrker","42 Agder",42,1,1
+"993",202008,"Akademiske yrker","42 Agder",45,14,14
+"994",202008,"Akademiske yrker","46 Vestland",45,80,70
+"995",202008,"Akademiske yrker","50 Trøndelag",42,6,6
+"996",202008,"Akademiske yrker","50 Trøndelag",45,48,44
+"997",202008,"Akademiske yrker","54 Finnmark og Troms",42,2,2
+"998",202008,"Akademiske yrker","54 Finnmark og Troms",45,44,42
+"999",202008,"Akademiske yrker","99 øvrige omrøder",45,1,1
+"1000",202008,"Barne- og ungdomsarbeid","03 Oslo",42,3,3
+"1001",202008,"Barne- og ungdomsarbeid","03 Oslo",45,184,184
+"1002",202008,"Barne- og ungdomsarbeid","11 Rogaland",42,1,1
+"1003",202008,"Barne- og ungdomsarbeid","11 Rogaland",45,57,56
+"1004",202008,"Barne- og ungdomsarbeid","15 Møre og Romsdal",42,1,1
+"1005",202008,"Barne- og ungdomsarbeid","15 Møre og Romsdal",45,27,26
+"1006",202008,"Barne- og ungdomsarbeid","18 Nordland",42,2,2
+"1007",202008,"Barne- og ungdomsarbeid","18 Nordland",45,13,14
+"1008",202008,"Barne- og ungdomsarbeid","30 Viken",42,8,8
+"1009",202008,"Barne- og ungdomsarbeid","30 Viken",45,209,202
+"1010",202008,"Barne- og ungdomsarbeid","34 Innlandet",42,2,2
+"1011",202008,"Barne- og ungdomsarbeid","34 Innlandet",45,26,26
+"1012",202008,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",42,11,11
+"1013",202008,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",45,69,64
+"1014",202008,"Barne- og ungdomsarbeid","42 Agder",42,1,1
+"1015",202008,"Barne- og ungdomsarbeid","42 Agder",45,19,20
+"1016",202008,"Barne- og ungdomsarbeid","46 Vestland",42,12,12
+"1017",202008,"Barne- og ungdomsarbeid","46 Vestland",45,58,57
+"1018",202008,"Barne- og ungdomsarbeid","50 Trøndelag",42,2,2
+"1019",202008,"Barne- og ungdomsarbeid","50 Trøndelag",45,38,37
+"1020",202008,"Barne- og ungdomsarbeid","54 Finnmark og Troms",42,7,7
+"1021",202008,"Barne- og ungdomsarbeid","54 Finnmark og Troms",45,17,15
+"1022",202008,"Barne- og ungdomsarbeid","99 øvrige omrøder",45,1,1
+"1023",202008,"Butikk- og salgsarbeid","03 Oslo",42,25,25
+"1024",202008,"Butikk- og salgsarbeid","03 Oslo",45,489,459
+"1025",202008,"Butikk- og salgsarbeid","11 Rogaland",42,22,21
+"1026",202008,"Butikk- og salgsarbeid","11 Rogaland",45,150,152
+"1027",202008,"Butikk- og salgsarbeid","15 Møre og Romsdal",42,13,13
+"1028",202008,"Butikk- og salgsarbeid","15 Møre og Romsdal",45,101,101
+"1029",202008,"Butikk- og salgsarbeid","18 Nordland",42,8,8
+"1030",202008,"Butikk- og salgsarbeid","18 Nordland",45,102,99
+"1031",202008,"Butikk- og salgsarbeid","30 Viken",42,51,48
+"1032",202008,"Butikk- og salgsarbeid","30 Viken",45,507,516
+"1033",202008,"Butikk- og salgsarbeid","34 Innlandet",42,14,13
+"1034",202008,"Butikk- og salgsarbeid","34 Innlandet",45,104,102
+"1035",202008,"Butikk- og salgsarbeid","38 Telemark og Vestfold",42,58,58
+"1036",202008,"Butikk- og salgsarbeid","38 Telemark og Vestfold",45,140,142
+"1037",202008,"Butikk- og salgsarbeid","42 Agder",42,19,23
+"1038",202008,"Butikk- og salgsarbeid","42 Agder",45,143,147
+"1039",202008,"Butikk- og salgsarbeid","46 Vestland",42,28,28
+"1040",202008,"Butikk- og salgsarbeid","46 Vestland",45,310,311
+"1041",202008,"Butikk- og salgsarbeid","50 Trøndelag",42,55,55
+"1042",202008,"Butikk- og salgsarbeid","50 Trøndelag",45,197,203
+"1043",202008,"Butikk- og salgsarbeid","54 Finnmark og Troms",42,11,11
+"1044",202008,"Butikk- og salgsarbeid","54 Finnmark og Troms",45,118,116
+"1045",202008,"Butikk- og salgsarbeid","UKJENT",45,NA,10
+"1046",202008,"Bygg og anlegg","03 Oslo",42,15,36
+"1047",202008,"Bygg og anlegg","03 Oslo",45,645,589
+"1048",202008,"Bygg og anlegg","11 Rogaland",42,133,109
+"1049",202008,"Bygg og anlegg","11 Rogaland",45,188,187
+"1050",202008,"Bygg og anlegg","15 Møre og Romsdal",42,10,14
+"1051",202008,"Bygg og anlegg","15 Møre og Romsdal",45,77,67
+"1052",202008,"Bygg og anlegg","18 Nordland",42,10,10
+"1053",202008,"Bygg og anlegg","18 Nordland",45,67,71
+"1054",202008,"Bygg og anlegg","30 Viken",42,34,39
+"1055",202008,"Bygg og anlegg","30 Viken",45,420,442
+"1056",202008,"Bygg og anlegg","34 Innlandet",42,18,18
+"1057",202008,"Bygg og anlegg","34 Innlandet",45,51,54
+"1058",202008,"Bygg og anlegg","38 Telemark og Vestfold",42,56,58
+"1059",202008,"Bygg og anlegg","38 Telemark og Vestfold",45,185,157
+"1060",202008,"Bygg og anlegg","42 Agder",42,22,13
+"1061",202008,"Bygg og anlegg","42 Agder",45,42,36
+"1062",202008,"Bygg og anlegg","46 Vestland",42,21,21
+"1063",202008,"Bygg og anlegg","46 Vestland",45,336,341
+"1064",202008,"Bygg og anlegg","50 Trøndelag",42,35,36
+"1065",202008,"Bygg og anlegg","50 Trøndelag",45,305,297
+"1066",202008,"Bygg og anlegg","54 Finnmark og Troms",42,17,17
+"1067",202008,"Bygg og anlegg","54 Finnmark og Troms",45,182,182
+"1068",202008,"Bygg og anlegg","UTLAND",36,3,NA
+"1069",202008,"Helse, pleie og omsorg","03 Oslo",42,3,7
+"1070",202008,"Helse, pleie og omsorg","03 Oslo",45,705,738
+"1071",202008,"Helse, pleie og omsorg","11 Rogaland",42,4,4
+"1072",202008,"Helse, pleie og omsorg","11 Rogaland",45,330,330
+"1073",202008,"Helse, pleie og omsorg","15 Møre og Romsdal",42,3,3
+"1074",202008,"Helse, pleie og omsorg","15 Møre og Romsdal",45,216,201
+"1075",202008,"Helse, pleie og omsorg","18 Nordland",42,5,5
+"1076",202008,"Helse, pleie og omsorg","18 Nordland",45,194,190
+"1077",202008,"Helse, pleie og omsorg","30 Viken",42,32,32
+"1078",202008,"Helse, pleie og omsorg","30 Viken",45,1027,994
+"1079",202008,"Helse, pleie og omsorg","34 Innlandet",42,120,119
+"1080",202008,"Helse, pleie og omsorg","34 Innlandet",45,265,255
+"1081",202008,"Helse, pleie og omsorg","38 Telemark og Vestfold",42,8,8
+"1082",202008,"Helse, pleie og omsorg","38 Telemark og Vestfold",45,262,235
+"1083",202008,"Helse, pleie og omsorg","42 Agder",42,1,1
+"1084",202008,"Helse, pleie og omsorg","42 Agder",45,173,115
+"1085",202008,"Helse, pleie og omsorg","46 Vestland",42,13,9
+"1086",202008,"Helse, pleie og omsorg","46 Vestland",45,539,492
+"1087",202008,"Helse, pleie og omsorg","50 Trøndelag",42,5,5
+"1088",202008,"Helse, pleie og omsorg","50 Trøndelag",45,299,253
+"1089",202008,"Helse, pleie og omsorg","54 Finnmark og Troms",42,18,18
+"1090",202008,"Helse, pleie og omsorg","54 Finnmark og Troms",45,219,225
+"1091",202008,"Helse, pleie og omsorg","UTLAND",45,3,NA
+"1092",202008,"Industriarbeid","03 Oslo",42,50,50
+"1093",202008,"Industriarbeid","03 Oslo",45,118,113
+"1094",202008,"Industriarbeid","11 Rogaland",42,37,37
+"1095",202008,"Industriarbeid","11 Rogaland",45,115,107
+"1096",202008,"Industriarbeid","15 Møre og Romsdal",42,13,16
+"1097",202008,"Industriarbeid","15 Møre og Romsdal",45,38,35
+"1098",202008,"Industriarbeid","18 Nordland",42,13,13
+"1099",202008,"Industriarbeid","18 Nordland",45,59,55
+"1100",202008,"Industriarbeid","30 Viken",42,56,52
+"1101",202008,"Industriarbeid","30 Viken",45,168,167
+"1102",202008,"Industriarbeid","34 Innlandet",42,11,12
+"1103",202008,"Industriarbeid","34 Innlandet",45,51,49
+"1104",202008,"Industriarbeid","38 Telemark og Vestfold",42,62,62
+"1105",202008,"Industriarbeid","38 Telemark og Vestfold",45,88,85
+"1106",202008,"Industriarbeid","42 Agder",42,24,24
+"1107",202008,"Industriarbeid","42 Agder",45,41,41
+"1108",202008,"Industriarbeid","46 Vestland",42,33,31
+"1109",202008,"Industriarbeid","46 Vestland",45,126,129
+"1110",202008,"Industriarbeid","50 Trøndelag",42,35,34
+"1111",202008,"Industriarbeid","50 Trøndelag",45,76,78
+"1112",202008,"Industriarbeid","54 Finnmark og Troms",42,9,9
+"1113",202008,"Industriarbeid","54 Finnmark og Troms",45,41,40
+"1114",202008,"Industriarbeid","UKJENT",45,NA,1
+"1115",202008,"Ingen yrkesbakgrunn eller uoppgitt","11 Rogaland",42,7,21
+"1116",202008,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",42,7,7
+"1117",202008,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",42,5,5
+"1118",202008,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",45,NA,1
+"1119",202008,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",42,56,56
+"1120",202008,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",45,5,5
+"1121",202008,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",42,12,12
+"1122",202008,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",42,24,24
+"1123",202008,"Ingen yrkesbakgrunn eller uoppgitt","42 Agder",42,7,7
+"1124",202008,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",42,35,21
+"1125",202008,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",45,NA,1
+"1126",202008,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",42,9,9
+"1127",202008,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",45,1,1
+"1128",202008,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",42,2,2
+"1129",202008,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",45,NA,2
+"1130",202008,"Ingeni?r- og ikt-fag","03 Oslo",42,2,2
+"1131",202008,"Ingeni?r- og ikt-fag","03 Oslo",45,558,575
+"1132",202008,"Ingeni?r- og ikt-fag","11 Rogaland",42,5,5
+"1133",202008,"Ingeni?r- og ikt-fag","11 Rogaland",45,162,165
+"1134",202008,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",45,24,32
+"1135",202008,"Ingeni?r- og ikt-fag","18 Nordland",42,3,3
+"1136",202008,"Ingeni?r- og ikt-fag","18 Nordland",45,54,55
+"1137",202008,"Ingeni?r- og ikt-fag","30 Viken",42,10,10
+"1138",202008,"Ingeni?r- og ikt-fag","30 Viken",45,278,278
+"1139",202008,"Ingeni?r- og ikt-fag","34 Innlandet",45,31,32
+"1140",202008,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",42,14,14
+"1141",202008,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",45,62,59
+"1142",202008,"Ingeni?r- og ikt-fag","42 Agder",42,3,3
+"1143",202008,"Ingeni?r- og ikt-fag","42 Agder",45,39,38
+"1144",202008,"Ingeni?r- og ikt-fag","46 Vestland",42,12,12
+"1145",202008,"Ingeni?r- og ikt-fag","46 Vestland",45,164,163
+"1146",202008,"Ingeni?r- og ikt-fag","50 Trøndelag",42,7,7
+"1147",202008,"Ingeni?r- og ikt-fag","50 Trøndelag",45,131,131
+"1148",202008,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",42,5,5
+"1149",202008,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",45,80,80
+"1150",202008,"Ingeni?r- og ikt-fag","UTLAND",36,2,NA
+"1151",202008,"Ingeni?r- og ikt-fag","UTLAND",45,4,NA
+"1152",202008,"Jordbruk, skogbruk og fiske","03 Oslo",42,1,1
+"1153",202008,"Jordbruk, skogbruk og fiske","03 Oslo",45,35,4
+"1154",202008,"Jordbruk, skogbruk og fiske","11 Rogaland",42,4,4
+"1155",202008,"Jordbruk, skogbruk og fiske","11 Rogaland",45,1,1
+"1156",202008,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",42,1,1
+"1157",202008,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",45,4,4
+"1158",202008,"Jordbruk, skogbruk og fiske","18 Nordland",42,4,4
+"1159",202008,"Jordbruk, skogbruk og fiske","18 Nordland",45,1,1
+"1160",202008,"Jordbruk, skogbruk og fiske","30 Viken",42,3,3
+"1161",202008,"Jordbruk, skogbruk og fiske","30 Viken",45,8,32
+"1162",202008,"Jordbruk, skogbruk og fiske","34 Innlandet",42,2,2
+"1163",202008,"Jordbruk, skogbruk og fiske","34 Innlandet",45,6,6
+"1164",202008,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",42,6,6
+"1165",202008,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",45,6,6
+"1166",202008,"Jordbruk, skogbruk og fiske","42 Agder",42,1,1
+"1167",202008,"Jordbruk, skogbruk og fiske","42 Agder",45,3,3
+"1168",202008,"Jordbruk, skogbruk og fiske","46 Vestland",42,1,1
+"1169",202008,"Jordbruk, skogbruk og fiske","46 Vestland",45,41,40
+"1170",202008,"Jordbruk, skogbruk og fiske","50 Trøndelag",42,6,6
+"1171",202008,"Jordbruk, skogbruk og fiske","50 Trøndelag",45,10,10
+"1172",202008,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",42,3,3
+"1173",202008,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",45,14,14
+"1174",202008,"Kontorarbeid","03 Oslo",36,17,NA
+"1175",202008,"Kontorarbeid","03 Oslo",42,10,9
+"1176",202008,"Kontorarbeid","03 Oslo",45,362,363
+"1177",202008,"Kontorarbeid","11 Rogaland",42,14,14
+"1178",202008,"Kontorarbeid","11 Rogaland",45,49,49
+"1179",202008,"Kontorarbeid","15 Møre og Romsdal",42,14,14
+"1180",202008,"Kontorarbeid","15 Møre og Romsdal",45,26,25
+"1181",202008,"Kontorarbeid","18 Nordland",42,23,23
+"1182",202008,"Kontorarbeid","18 Nordland",45,19,19
+"1183",202008,"Kontorarbeid","30 Viken",42,25,26
+"1184",202008,"Kontorarbeid","30 Viken",45,223,220
+"1185",202008,"Kontorarbeid","34 Innlandet",42,33,33
+"1186",202008,"Kontorarbeid","34 Innlandet",45,53,58
+"1187",202008,"Kontorarbeid","38 Telemark og Vestfold",42,22,22
+"1188",202008,"Kontorarbeid","38 Telemark og Vestfold",45,46,49
+"1189",202008,"Kontorarbeid","42 Agder",42,7,7
+"1190",202008,"Kontorarbeid","42 Agder",45,35,34
+"1191",202008,"Kontorarbeid","46 Vestland",42,16,16
+"1192",202008,"Kontorarbeid","46 Vestland",45,158,160
+"1193",202008,"Kontorarbeid","50 Trøndelag",42,16,16
+"1194",202008,"Kontorarbeid","50 Trøndelag",45,50,50
+"1195",202008,"Kontorarbeid","54 Finnmark og Troms",42,4,4
+"1196",202008,"Kontorarbeid","54 Finnmark og Troms",45,22,20
+"1197",202008,"Kontorarbeid","UTLAND",36,1,NA
+"1198",202008,"Ledere","03 Oslo",45,150,152
+"1199",202008,"Ledere","11 Rogaland",45,24,26
+"1200",202008,"Ledere","15 Møre og Romsdal",45,18,18
+"1201",202008,"Ledere","18 Nordland",45,19,18
+"1202",202008,"Ledere","30 Viken",42,1,1
+"1203",202008,"Ledere","30 Viken",45,91,94
+"1204",202008,"Ledere","34 Innlandet",45,14,16
+"1205",202008,"Ledere","38 Telemark og Vestfold",45,28,28
+"1206",202008,"Ledere","42 Agder",45,19,19
+"1207",202008,"Ledere","46 Vestland",42,2,2
+"1208",202008,"Ledere","46 Vestland",45,38,37
+"1209",202008,"Ledere","50 Trøndelag",42,3,3
+"1210",202008,"Ledere","50 Trøndelag",45,31,30
+"1211",202008,"Ledere","54 Finnmark og Troms",42,1,1
+"1212",202008,"Ledere","54 Finnmark og Troms",45,27,26
+"1213",202008,"Meglere og konsulenter","03 Oslo",36,1,NA
+"1214",202008,"Meglere og konsulenter","03 Oslo",42,1,1
+"1215",202008,"Meglere og konsulenter","03 Oslo",45,262,254
+"1216",202008,"Meglere og konsulenter","11 Rogaland",42,3,3
+"1217",202008,"Meglere og konsulenter","11 Rogaland",45,40,39
+"1218",202008,"Meglere og konsulenter","15 Møre og Romsdal",42,NA,1
+"1219",202008,"Meglere og konsulenter","15 Møre og Romsdal",45,28,28
+"1220",202008,"Meglere og konsulenter","18 Nordland",45,25,22
+"1221",202008,"Meglere og konsulenter","30 Viken",42,4,4
+"1222",202008,"Meglere og konsulenter","30 Viken",45,113,118
+"1223",202008,"Meglere og konsulenter","34 Innlandet",42,7,7
+"1224",202008,"Meglere og konsulenter","34 Innlandet",45,24,24
+"1225",202008,"Meglere og konsulenter","38 Telemark og Vestfold",42,5,4
+"1226",202008,"Meglere og konsulenter","38 Telemark og Vestfold",45,56,55
+"1227",202008,"Meglere og konsulenter","42 Agder",45,32,36
+"1228",202008,"Meglere og konsulenter","46 Vestland",42,2,2
+"1229",202008,"Meglere og konsulenter","46 Vestland",45,78,74
+"1230",202008,"Meglere og konsulenter","50 Trøndelag",42,2,2
+"1231",202008,"Meglere og konsulenter","50 Trøndelag",45,60,59
+"1232",202008,"Meglere og konsulenter","54 Finnmark og Troms",42,6,6
+"1233",202008,"Meglere og konsulenter","54 Finnmark og Troms",45,27,27
+"1234",202008,"Reiseliv og transport","03 Oslo",36,2,NA
+"1235",202008,"Reiseliv og transport","03 Oslo",42,17,23
+"1236",202008,"Reiseliv og transport","03 Oslo",45,212,211
+"1237",202008,"Reiseliv og transport","11 Rogaland",42,19,19
+"1238",202008,"Reiseliv og transport","11 Rogaland",45,62,52
+"1239",202008,"Reiseliv og transport","15 Møre og Romsdal",42,6,7
+"1240",202008,"Reiseliv og transport","15 Møre og Romsdal",45,37,36
+"1241",202008,"Reiseliv og transport","18 Nordland",42,7,7
+"1242",202008,"Reiseliv og transport","18 Nordland",45,58,59
+"1243",202008,"Reiseliv og transport","30 Viken",42,46,46
+"1244",202008,"Reiseliv og transport","30 Viken",45,169,161
+"1245",202008,"Reiseliv og transport","34 Innlandet",42,25,19
+"1246",202008,"Reiseliv og transport","34 Innlandet",45,267,261
+"1247",202008,"Reiseliv og transport","38 Telemark og Vestfold",42,63,61
+"1248",202008,"Reiseliv og transport","38 Telemark og Vestfold",45,96,96
+"1249",202008,"Reiseliv og transport","42 Agder",42,13,13
+"1250",202008,"Reiseliv og transport","42 Agder",45,19,15
+"1251",202008,"Reiseliv og transport","46 Vestland",42,75,74
+"1252",202008,"Reiseliv og transport","46 Vestland",45,108,103
+"1253",202008,"Reiseliv og transport","50 Trøndelag",42,27,26
+"1254",202008,"Reiseliv og transport","50 Trøndelag",45,89,79
+"1255",202008,"Reiseliv og transport","54 Finnmark og Troms",42,9,9
+"1256",202008,"Reiseliv og transport","54 Finnmark og Troms",45,56,53
+"1257",202008,"Serviceyrker og annet arbeid","01 østfold",42,NA,4
+"1258",202008,"Serviceyrker og annet arbeid","03 Oslo",42,5,5
+"1259",202008,"Serviceyrker og annet arbeid","03 Oslo",45,412,411
+"1260",202008,"Serviceyrker og annet arbeid","11 Rogaland",42,7,7
+"1261",202008,"Serviceyrker og annet arbeid","11 Rogaland",45,151,161
+"1262",202008,"Serviceyrker og annet arbeid","15 Møre og Romsdal",42,6,6
+"1263",202008,"Serviceyrker og annet arbeid","15 Møre og Romsdal",45,81,74
+"1264",202008,"Serviceyrker og annet arbeid","18 Nordland",42,9,7
+"1265",202008,"Serviceyrker og annet arbeid","18 Nordland",45,52,47
+"1266",202008,"Serviceyrker og annet arbeid","30 Viken",42,47,44
+"1267",202008,"Serviceyrker og annet arbeid","30 Viken",45,229,227
+"1268",202008,"Serviceyrker og annet arbeid","34 Innlandet",42,26,26
+"1269",202008,"Serviceyrker og annet arbeid","34 Innlandet",45,62,61
+"1270",202008,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",42,16,16
+"1271",202008,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",45,68,68
+"1272",202008,"Serviceyrker og annet arbeid","42 Agder",42,13,13
+"1273",202008,"Serviceyrker og annet arbeid","42 Agder",45,72,87
+"1274",202008,"Serviceyrker og annet arbeid","46 Vestland",42,17,17
+"1275",202008,"Serviceyrker og annet arbeid","46 Vestland",45,114,108
+"1276",202008,"Serviceyrker og annet arbeid","50 Trøndelag",42,47,47
+"1277",202008,"Serviceyrker og annet arbeid","50 Trøndelag",45,90,92
+"1278",202008,"Serviceyrker og annet arbeid","54 Finnmark og Troms",42,11,12
+"1279",202008,"Serviceyrker og annet arbeid","54 Finnmark og Troms",45,62,63
+"1280",202008,"Serviceyrker og annet arbeid","99 øvrige omrøder",45,1,1
+"1281",202008,"Undervisning","03 Oslo",45,247,268
+"1282",202008,"Undervisning","11 Rogaland",42,2,2
+"1283",202008,"Undervisning","11 Rogaland",45,90,92
+"1284",202008,"Undervisning","15 Møre og Romsdal",45,44,46
+"1285",202008,"Undervisning","18 Nordland",45,35,35
+"1286",202008,"Undervisning","30 Viken",42,1,1
+"1287",202008,"Undervisning","30 Viken",45,310,311
+"1288",202008,"Undervisning","34 Innlandet",42,4,4
+"1289",202008,"Undervisning","34 Innlandet",45,43,43
+"1290",202008,"Undervisning","38 Telemark og Vestfold",42,3,3
+"1291",202008,"Undervisning","38 Telemark og Vestfold",45,41,42
+"1292",202008,"Undervisning","42 Agder",42,5,5
+"1293",202008,"Undervisning","42 Agder",45,29,29
+"1294",202008,"Undervisning","46 Vestland",42,8,8
+"1295",202008,"Undervisning","46 Vestland",45,108,104
+"1296",202008,"Undervisning","50 Trøndelag",42,2,2
+"1297",202008,"Undervisning","50 Trøndelag",45,93,89
+"1298",202008,"Undervisning","54 Finnmark og Troms",42,8,8
+"1299",202008,"Undervisning","54 Finnmark og Troms",45,56,56
+"1300",202008,"Undervisning","UTLAND",45,9,NA
+"1301",202009,"Akademiske yrker","03 Oslo",42,6,6
+"1302",202009,"Akademiske yrker","03 Oslo",45,547,542
+"1303",202009,"Akademiske yrker","11 Rogaland",45,124,120
+"1304",202009,"Akademiske yrker","15 Møre og Romsdal",42,4,4
+"1305",202009,"Akademiske yrker","15 Møre og Romsdal",45,66,65
+"1306",202009,"Akademiske yrker","18 Nordland",42,2,2
+"1307",202009,"Akademiske yrker","18 Nordland",45,64,63
+"1308",202009,"Akademiske yrker","30 Viken",42,2,2
+"1309",202009,"Akademiske yrker","30 Viken",45,325,323
+"1310",202009,"Akademiske yrker","34 Innlandet",42,3,3
+"1311",202009,"Akademiske yrker","34 Innlandet",45,71,72
+"1312",202009,"Akademiske yrker","38 Telemark og Vestfold",42,15,15
+"1313",202009,"Akademiske yrker","38 Telemark og Vestfold",45,106,104
+"1314",202009,"Akademiske yrker","42 Agder",42,14,14
+"1315",202009,"Akademiske yrker","42 Agder",45,64,60
+"1316",202009,"Akademiske yrker","46 Vestland",42,4,4
+"1317",202009,"Akademiske yrker","46 Vestland",45,183,178
+"1318",202009,"Akademiske yrker","50 Trøndelag",42,5,5
+"1319",202009,"Akademiske yrker","50 Trøndelag",45,124,121
+"1320",202009,"Akademiske yrker","54 Finnmark og Troms",42,5,5
+"1321",202009,"Akademiske yrker","54 Finnmark og Troms",45,88,85
+"1322",202009,"Akademiske yrker","99 øvrige omrøder",45,3,3
+"1323",202009,"Akademiske yrker","UTLAND",36,1,NA
+"1324",202009,"Barne- og ungdomsarbeid","03 Oslo",42,11,16
+"1325",202009,"Barne- og ungdomsarbeid","03 Oslo",45,168,174
+"1326",202009,"Barne- og ungdomsarbeid","11 Rogaland",42,8,8
+"1327",202009,"Barne- og ungdomsarbeid","11 Rogaland",45,42,43
+"1328",202009,"Barne- og ungdomsarbeid","15 Møre og Romsdal",42,7,7
+"1329",202009,"Barne- og ungdomsarbeid","15 Møre og Romsdal",45,40,87
+"1330",202009,"Barne- og ungdomsarbeid","18 Nordland",42,23,23
+"1331",202009,"Barne- og ungdomsarbeid","18 Nordland",45,26,26
+"1332",202009,"Barne- og ungdomsarbeid","30 Viken",42,22,23
+"1333",202009,"Barne- og ungdomsarbeid","30 Viken",45,279,268
+"1334",202009,"Barne- og ungdomsarbeid","34 Innlandet",42,15,15
+"1335",202009,"Barne- og ungdomsarbeid","34 Innlandet",45,28,32
+"1336",202009,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",42,41,37
+"1337",202009,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",45,40,40
+"1338",202009,"Barne- og ungdomsarbeid","42 Agder",42,6,6
+"1339",202009,"Barne- og ungdomsarbeid","42 Agder",45,43,36
+"1340",202009,"Barne- og ungdomsarbeid","46 Vestland",42,41,41
+"1341",202009,"Barne- og ungdomsarbeid","46 Vestland",45,72,70
+"1342",202009,"Barne- og ungdomsarbeid","50 Trøndelag",42,53,53
+"1343",202009,"Barne- og ungdomsarbeid","50 Trøndelag",45,45,39
+"1344",202009,"Barne- og ungdomsarbeid","54 Finnmark og Troms",42,10,10
+"1345",202009,"Barne- og ungdomsarbeid","54 Finnmark og Troms",45,103,103
+"1346",202009,"Butikk- og salgsarbeid","03 Oslo",36,3,NA
+"1347",202009,"Butikk- og salgsarbeid","03 Oslo",42,51,72
+"1348",202009,"Butikk- og salgsarbeid","03 Oslo",45,953,979
+"1349",202009,"Butikk- og salgsarbeid","11 Rogaland",42,28,29
+"1350",202009,"Butikk- og salgsarbeid","11 Rogaland",45,200,206
+"1351",202009,"Butikk- og salgsarbeid","15 Møre og Romsdal",42,17,16
+"1352",202009,"Butikk- og salgsarbeid","15 Møre og Romsdal",45,95,99
+"1353",202009,"Butikk- og salgsarbeid","18 Nordland",42,24,29
+"1354",202009,"Butikk- og salgsarbeid","18 Nordland",45,136,138
+"1355",202009,"Butikk- og salgsarbeid","30 Viken",42,62,62
+"1356",202009,"Butikk- og salgsarbeid","30 Viken",45,689,729
+"1357",202009,"Butikk- og salgsarbeid","34 Innlandet",42,21,21
+"1358",202009,"Butikk- og salgsarbeid","34 Innlandet",45,111,113
+"1359",202009,"Butikk- og salgsarbeid","38 Telemark og Vestfold",42,76,76
+"1360",202009,"Butikk- og salgsarbeid","38 Telemark og Vestfold",45,227,215
+"1361",202009,"Butikk- og salgsarbeid","42 Agder",42,55,32
+"1362",202009,"Butikk- og salgsarbeid","42 Agder",45,235,239
+"1363",202009,"Butikk- og salgsarbeid","46 Vestland",42,66,68
+"1364",202009,"Butikk- og salgsarbeid","46 Vestland",45,331,337
+"1365",202009,"Butikk- og salgsarbeid","50 Trøndelag",42,69,69
+"1366",202009,"Butikk- og salgsarbeid","50 Trøndelag",45,259,280
+"1367",202009,"Butikk- og salgsarbeid","54 Finnmark og Troms",42,35,33
+"1368",202009,"Butikk- og salgsarbeid","54 Finnmark og Troms",45,149,146
+"1369",202009,"Bygg og anlegg","03 Oslo",42,26,38
+"1370",202009,"Bygg og anlegg","03 Oslo",45,772,723
+"1371",202009,"Bygg og anlegg","11 Rogaland",42,101,115
+"1372",202009,"Bygg og anlegg","11 Rogaland",45,361,358
+"1373",202009,"Bygg og anlegg","15 Møre og Romsdal",42,31,33
+"1374",202009,"Bygg og anlegg","15 Møre og Romsdal",45,128,149
+"1375",202009,"Bygg og anlegg","18 Nordland",42,13,14
+"1376",202009,"Bygg og anlegg","18 Nordland",45,114,113
+"1377",202009,"Bygg og anlegg","30 Viken",42,69,71
+"1378",202009,"Bygg og anlegg","30 Viken",45,608,666
+"1379",202009,"Bygg og anlegg","34 Innlandet",42,22,25
+"1380",202009,"Bygg og anlegg","34 Innlandet",45,122,118
+"1381",202009,"Bygg og anlegg","38 Telemark og Vestfold",42,102,93
+"1382",202009,"Bygg og anlegg","38 Telemark og Vestfold",45,112,127
+"1383",202009,"Bygg og anlegg","42 Agder",42,31,30
+"1384",202009,"Bygg og anlegg","42 Agder",45,315,314
+"1385",202009,"Bygg og anlegg","46 Vestland",42,56,46
+"1386",202009,"Bygg og anlegg","46 Vestland",45,554,540
+"1387",202009,"Bygg og anlegg","50 Trøndelag",42,95,83
+"1388",202009,"Bygg og anlegg","50 Trøndelag",45,444,445
+"1389",202009,"Bygg og anlegg","54 Finnmark og Troms",42,28,27
+"1390",202009,"Bygg og anlegg","54 Finnmark og Troms",45,154,147
+"1391",202009,"Bygg og anlegg","99 øvrige omrøder",45,4,4
+"1392",202009,"Bygg og anlegg","UTLAND",36,1,NA
+"1393",202009,"Helse, pleie og omsorg","03 Oslo",42,106,107
+"1394",202009,"Helse, pleie og omsorg","03 Oslo",45,1204,1203
+"1395",202009,"Helse, pleie og omsorg","11 Rogaland",42,13,13
+"1396",202009,"Helse, pleie og omsorg","11 Rogaland",45,742,741
+"1397",202009,"Helse, pleie og omsorg","15 Møre og Romsdal",42,8,8
+"1398",202009,"Helse, pleie og omsorg","15 Møre og Romsdal",45,436,443
+"1399",202009,"Helse, pleie og omsorg","18 Nordland",42,30,30
+"1400",202009,"Helse, pleie og omsorg","18 Nordland",45,451,449
+"1401",202009,"Helse, pleie og omsorg","30 Viken",42,34,35
+"1402",202009,"Helse, pleie og omsorg","30 Viken",45,1900,1868
+"1403",202009,"Helse, pleie og omsorg","34 Innlandet",42,23,25
+"1404",202009,"Helse, pleie og omsorg","34 Innlandet",45,538,532
+"1405",202009,"Helse, pleie og omsorg","38 Telemark og Vestfold",42,18,17
+"1406",202009,"Helse, pleie og omsorg","38 Telemark og Vestfold",45,556,564
+"1407",202009,"Helse, pleie og omsorg","42 Agder",42,25,24
+"1408",202009,"Helse, pleie og omsorg","42 Agder",45,336,325
+"1409",202009,"Helse, pleie og omsorg","46 Vestland",42,75,75
+"1410",202009,"Helse, pleie og omsorg","46 Vestland",45,1093,1038
+"1411",202009,"Helse, pleie og omsorg","50 Trøndelag",42,56,56
+"1412",202009,"Helse, pleie og omsorg","50 Trøndelag",45,578,526
+"1413",202009,"Helse, pleie og omsorg","54 Finnmark og Troms",42,14,16
+"1414",202009,"Helse, pleie og omsorg","54 Finnmark og Troms",45,492,493
+"1415",202009,"Helse, pleie og omsorg","99 øvrige omrøder",45,2,2
+"1416",202009,"Industriarbeid","03 Oslo",36,2,NA
+"1417",202009,"Industriarbeid","03 Oslo",42,9,27
+"1418",202009,"Industriarbeid","03 Oslo",45,250,221
+"1419",202009,"Industriarbeid","11 Rogaland",42,61,60
+"1420",202009,"Industriarbeid","11 Rogaland",45,233,232
+"1421",202009,"Industriarbeid","15 Møre og Romsdal",42,51,52
+"1422",202009,"Industriarbeid","15 Møre og Romsdal",45,117,112
+"1423",202009,"Industriarbeid","18 Nordland",42,22,21
+"1424",202009,"Industriarbeid","18 Nordland",45,71,75
+"1425",202009,"Industriarbeid","30 Viken",42,63,65
+"1426",202009,"Industriarbeid","30 Viken",45,498,507
+"1427",202009,"Industriarbeid","34 Innlandet",42,43,45
+"1428",202009,"Industriarbeid","34 Innlandet",45,87,87
+"1429",202009,"Industriarbeid","38 Telemark og Vestfold",42,117,119
+"1430",202009,"Industriarbeid","38 Telemark og Vestfold",45,110,110
+"1431",202009,"Industriarbeid","42 Agder",42,50,50
+"1432",202009,"Industriarbeid","42 Agder",45,54,47
+"1433",202009,"Industriarbeid","46 Vestland",42,47,42
+"1434",202009,"Industriarbeid","46 Vestland",45,369,371
+"1435",202009,"Industriarbeid","50 Trøndelag",42,137,125
+"1436",202009,"Industriarbeid","50 Trøndelag",45,210,211
+"1437",202009,"Industriarbeid","54 Finnmark og Troms",42,22,22
+"1438",202009,"Industriarbeid","54 Finnmark og Troms",45,75,96
+"1439",202009,"Industriarbeid","99 øvrige omrøder",42,1,1
+"1440",202009,"Industriarbeid","99 øvrige omrøder",45,2,2
+"1441",202009,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",42,13,14
+"1442",202009,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",45,64,68
+"1443",202009,"Ingen yrkesbakgrunn eller uoppgitt","11 Rogaland",42,12,12
+"1444",202009,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",42,10,5
+"1445",202009,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",45,3,6
+"1446",202009,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",42,13,13
+"1447",202009,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",45,NA,1
+"1448",202009,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",42,40,42
+"1449",202009,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",45,NA,4
+"1450",202009,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",42,14,11
+"1451",202009,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",45,5,17
+"1452",202009,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",42,32,31
+"1453",202009,"Ingen yrkesbakgrunn eller uoppgitt","42 Agder",42,24,18
+"1454",202009,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",42,34,33
+"1455",202009,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",45,15,18
+"1456",202009,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",42,24,24
+"1457",202009,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",45,1,2
+"1458",202009,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",42,6,6
+"1459",202009,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",45,NA,2
+"1460",202009,"Ingeni?r- og ikt-fag","03 Oslo",36,2,NA
+"1461",202009,"Ingeni?r- og ikt-fag","03 Oslo",42,11,13
+"1462",202009,"Ingeni?r- og ikt-fag","03 Oslo",45,1002,1001
+"1463",202009,"Ingeni?r- og ikt-fag","11 Rogaland",42,12,11
+"1464",202009,"Ingeni?r- og ikt-fag","11 Rogaland",45,457,466
+"1465",202009,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",42,5,5
+"1466",202009,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",45,81,79
+"1467",202009,"Ingeni?r- og ikt-fag","18 Nordland",42,3,3
+"1468",202009,"Ingeni?r- og ikt-fag","18 Nordland",45,47,48
+"1469",202009,"Ingeni?r- og ikt-fag","30 Viken",42,14,14
+"1470",202009,"Ingeni?r- og ikt-fag","30 Viken",45,596,586
+"1471",202009,"Ingeni?r- og ikt-fag","34 Innlandet",42,4,4
+"1472",202009,"Ingeni?r- og ikt-fag","34 Innlandet",45,69,70
+"1473",202009,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",42,19,17
+"1474",202009,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",45,112,111
+"1475",202009,"Ingeni?r- og ikt-fag","42 Agder",42,18,18
+"1476",202009,"Ingeni?r- og ikt-fag","42 Agder",45,80,78
+"1477",202009,"Ingeni?r- og ikt-fag","46 Vestland",42,19,21
+"1478",202009,"Ingeni?r- og ikt-fag","46 Vestland",45,375,367
+"1479",202009,"Ingeni?r- og ikt-fag","50 Trøndelag",42,30,30
+"1480",202009,"Ingeni?r- og ikt-fag","50 Trøndelag",45,270,266
+"1481",202009,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",42,2,2
+"1482",202009,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",45,96,97
+"1483",202009,"Ingeni?r- og ikt-fag","99 øvrige omrøder",45,8,8
+"1484",202009,"Ingeni?r- og ikt-fag","UTLAND",36,5,NA
+"1485",202009,"Ingeni?r- og ikt-fag","UTLAND",45,1,NA
+"1486",202009,"Jordbruk, skogbruk og fiske","03 Oslo",45,10,6
+"1487",202009,"Jordbruk, skogbruk og fiske","11 Rogaland",45,2,1
+"1488",202009,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",45,4,3
+"1489",202009,"Jordbruk, skogbruk og fiske","18 Nordland",42,2,2
+"1490",202009,"Jordbruk, skogbruk og fiske","18 Nordland",45,12,6
+"1491",202009,"Jordbruk, skogbruk og fiske","30 Viken",42,7,7
+"1492",202009,"Jordbruk, skogbruk og fiske","30 Viken",45,39,39
+"1493",202009,"Jordbruk, skogbruk og fiske","34 Innlandet",42,6,6
+"1494",202009,"Jordbruk, skogbruk og fiske","34 Innlandet",45,6,8
+"1495",202009,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",42,3,3
+"1496",202009,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",45,8,11
+"1497",202009,"Jordbruk, skogbruk og fiske","42 Agder",42,4,4
+"1498",202009,"Jordbruk, skogbruk og fiske","42 Agder",45,1,1
+"1499",202009,"Jordbruk, skogbruk og fiske","46 Vestland",42,8,8
+"1500",202009,"Jordbruk, skogbruk og fiske","46 Vestland",45,16,16
+"1501",202009,"Jordbruk, skogbruk og fiske","50 Trøndelag",42,12,12
+"1502",202009,"Jordbruk, skogbruk og fiske","50 Trøndelag",45,14,14
+"1503",202009,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",42,NA,1
+"1504",202009,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",45,12,13
+"1505",202009,"Jordbruk, skogbruk og fiske","UTLAND",36,8,NA
+"1506",202009,"Kontorarbeid","03 Oslo",36,7,NA
+"1507",202009,"Kontorarbeid","03 Oslo",42,47,48
+"1508",202009,"Kontorarbeid","03 Oslo",45,604,540
+"1509",202009,"Kontorarbeid","11 Rogaland",42,15,15
+"1510",202009,"Kontorarbeid","11 Rogaland",45,215,212
+"1511",202009,"Kontorarbeid","15 Møre og Romsdal",42,9,9
+"1512",202009,"Kontorarbeid","15 Møre og Romsdal",45,47,49
+"1513",202009,"Kontorarbeid","18 Nordland",42,8,8
+"1514",202009,"Kontorarbeid","18 Nordland",45,40,42
+"1515",202009,"Kontorarbeid","30 Viken",42,109,112
+"1516",202009,"Kontorarbeid","30 Viken",45,449,485
+"1517",202009,"Kontorarbeid","34 Innlandet",42,11,11
+"1518",202009,"Kontorarbeid","34 Innlandet",45,87,79
+"1519",202009,"Kontorarbeid","38 Telemark og Vestfold",42,63,63
+"1520",202009,"Kontorarbeid","38 Telemark og Vestfold",45,126,131
+"1521",202009,"Kontorarbeid","42 Agder",42,120,120
+"1522",202009,"Kontorarbeid","42 Agder",45,81,79
+"1523",202009,"Kontorarbeid","46 Vestland",42,30,30
+"1524",202009,"Kontorarbeid","46 Vestland",45,165,165
+"1525",202009,"Kontorarbeid","50 Trøndelag",42,32,30
+"1526",202009,"Kontorarbeid","50 Trøndelag",45,68,65
+"1527",202009,"Kontorarbeid","54 Finnmark og Troms",42,10,10
+"1528",202009,"Kontorarbeid","54 Finnmark og Troms",45,41,42
+"1529",202009,"Kontorarbeid","UTLAND",36,1,NA
+"1530",202009,"Ledere","03 Oslo",45,279,289
+"1531",202009,"Ledere","11 Rogaland",42,1,1
+"1532",202009,"Ledere","11 Rogaland",45,55,56
+"1533",202009,"Ledere","15 Møre og Romsdal",45,37,38
+"1534",202009,"Ledere","18 Nordland",42,1,1
+"1535",202009,"Ledere","18 Nordland",45,26,24
+"1536",202009,"Ledere","30 Viken",42,3,3
+"1537",202009,"Ledere","30 Viken",45,131,135
+"1538",202009,"Ledere","34 Innlandet",42,2,2
+"1539",202009,"Ledere","34 Innlandet",45,32,33
+"1540",202009,"Ledere","38 Telemark og Vestfold",42,1,1
+"1541",202009,"Ledere","38 Telemark og Vestfold",45,58,60
+"1542",202009,"Ledere","42 Agder",45,24,24
+"1543",202009,"Ledere","46 Vestland",42,2,2
+"1544",202009,"Ledere","46 Vestland",45,81,78
+"1545",202009,"Ledere","50 Trøndelag",42,1,1
+"1546",202009,"Ledere","50 Trøndelag",45,56,53
+"1547",202009,"Ledere","54 Finnmark og Troms",45,41,43
+"1548",202009,"Ledere","99 øvrige omrøder",45,1,1
+"1549",202009,"Ledere","UTLAND",36,1,NA
+"1550",202009,"Meglere og konsulenter","03 Oslo",42,4,4
+"1551",202009,"Meglere og konsulenter","03 Oslo",45,544,548
+"1552",202009,"Meglere og konsulenter","11 Rogaland",42,4,4
+"1553",202009,"Meglere og konsulenter","11 Rogaland",45,114,112
+"1554",202009,"Meglere og konsulenter","15 Møre og Romsdal",42,5,5
+"1555",202009,"Meglere og konsulenter","15 Møre og Romsdal",45,56,60
+"1556",202009,"Meglere og konsulenter","18 Nordland",42,1,1
+"1557",202009,"Meglere og konsulenter","18 Nordland",45,43,45
+"1558",202009,"Meglere og konsulenter","30 Viken",42,7,7
+"1559",202009,"Meglere og konsulenter","30 Viken",45,238,237
+"1560",202009,"Meglere og konsulenter","34 Innlandet",42,6,6
+"1561",202009,"Meglere og konsulenter","34 Innlandet",45,66,65
+"1562",202009,"Meglere og konsulenter","38 Telemark og Vestfold",42,15,15
+"1563",202009,"Meglere og konsulenter","38 Telemark og Vestfold",45,76,77
+"1564",202009,"Meglere og konsulenter","42 Agder",42,3,3
+"1565",202009,"Meglere og konsulenter","42 Agder",45,47,48
+"1566",202009,"Meglere og konsulenter","46 Vestland",42,3,3
+"1567",202009,"Meglere og konsulenter","46 Vestland",45,123,115
+"1568",202009,"Meglere og konsulenter","50 Trøndelag",42,9,9
+"1569",202009,"Meglere og konsulenter","50 Trøndelag",45,118,117
+"1570",202009,"Meglere og konsulenter","54 Finnmark og Troms",42,4,9
+"1571",202009,"Meglere og konsulenter","54 Finnmark og Troms",45,38,40
+"1572",202009,"Meglere og konsulenter","99 øvrige omrøder",45,2,2
+"1573",202009,"Meglere og konsulenter","UTLAND",36,22,NA
+"1574",202009,"Reiseliv og transport","03 Oslo",42,42,44
+"1575",202009,"Reiseliv og transport","03 Oslo",45,514,514
+"1576",202009,"Reiseliv og transport","11 Rogaland",42,27,27
+"1577",202009,"Reiseliv og transport","11 Rogaland",45,87,87
+"1578",202009,"Reiseliv og transport","12 Hordaland",45,NA,4
+"1579",202009,"Reiseliv og transport","15 Møre og Romsdal",42,15,15
+"1580",202009,"Reiseliv og transport","15 Møre og Romsdal",45,58,56
+"1581",202009,"Reiseliv og transport","18 Nordland",42,8,9
+"1582",202009,"Reiseliv og transport","18 Nordland",45,77,75
+"1583",202009,"Reiseliv og transport","30 Viken",42,48,50
+"1584",202009,"Reiseliv og transport","30 Viken",45,203,208
+"1585",202009,"Reiseliv og transport","34 Innlandet",42,20,18
+"1586",202009,"Reiseliv og transport","34 Innlandet",45,111,104
+"1587",202009,"Reiseliv og transport","38 Telemark og Vestfold",42,76,74
+"1588",202009,"Reiseliv og transport","38 Telemark og Vestfold",45,75,69
+"1589",202009,"Reiseliv og transport","42 Agder",42,43,42
+"1590",202009,"Reiseliv og transport","42 Agder",45,281,280
+"1591",202009,"Reiseliv og transport","46 Vestland",42,35,64
+"1592",202009,"Reiseliv og transport","46 Vestland",45,125,116
+"1593",202009,"Reiseliv og transport","50 Trøndelag",42,41,40
+"1594",202009,"Reiseliv og transport","50 Trøndelag",45,90,89
+"1595",202009,"Reiseliv og transport","54 Finnmark og Troms",42,7,7
+"1596",202009,"Reiseliv og transport","54 Finnmark og Troms",45,104,103
+"1597",202009,"Reiseliv og transport","99 øvrige omrøder",45,3,3
+"1598",202009,"Serviceyrker og annet arbeid","03 Oslo",42,34,40
+"1599",202009,"Serviceyrker og annet arbeid","03 Oslo",45,565,551
+"1600",202009,"Serviceyrker og annet arbeid","11 Rogaland",42,41,41
+"1601",202009,"Serviceyrker og annet arbeid","11 Rogaland",45,158,169
+"1602",202009,"Serviceyrker og annet arbeid","15 Møre og Romsdal",42,26,26
+"1603",202009,"Serviceyrker og annet arbeid","15 Møre og Romsdal",45,54,54
+"1604",202009,"Serviceyrker og annet arbeid","18 Nordland",42,17,16
+"1605",202009,"Serviceyrker og annet arbeid","18 Nordland",45,364,366
+"1606",202009,"Serviceyrker og annet arbeid","30 Viken",42,24,24
+"1607",202009,"Serviceyrker og annet arbeid","30 Viken",45,379,359
+"1608",202009,"Serviceyrker og annet arbeid","34 Innlandet",42,26,26
+"1609",202009,"Serviceyrker og annet arbeid","34 Innlandet",45,119,123
+"1610",202009,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",42,51,45
+"1611",202009,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",45,95,94
+"1612",202009,"Serviceyrker og annet arbeid","42 Agder",42,31,31
+"1613",202009,"Serviceyrker og annet arbeid","42 Agder",45,155,181
+"1614",202009,"Serviceyrker og annet arbeid","46 Vestland",42,57,55
+"1615",202009,"Serviceyrker og annet arbeid","46 Vestland",45,241,238
+"1616",202009,"Serviceyrker og annet arbeid","50 Trøndelag",42,82,84
+"1617",202009,"Serviceyrker og annet arbeid","50 Trøndelag",45,193,194
+"1618",202009,"Serviceyrker og annet arbeid","54 Finnmark og Troms",42,23,23
+"1619",202009,"Serviceyrker og annet arbeid","54 Finnmark og Troms",45,158,158
+"1620",202009,"Serviceyrker og annet arbeid","99 øvrige omrøder",45,2,2
+"1621",202009,"Serviceyrker og annet arbeid","UKJENT",42,NA,1
+"1622",202009,"Undervisning","03 Oslo",42,6,6
+"1623",202009,"Undervisning","03 Oslo",45,418,431
+"1624",202009,"Undervisning","11 Rogaland",42,5,5
+"1625",202009,"Undervisning","11 Rogaland",45,193,194
+"1626",202009,"Undervisning","15 Møre og Romsdal",45,70,88
+"1627",202009,"Undervisning","18 Nordland",42,5,5
+"1628",202009,"Undervisning","18 Nordland",45,76,73
+"1629",202009,"Undervisning","30 Viken",42,9,9
+"1630",202009,"Undervisning","30 Viken",45,455,434
+"1631",202009,"Undervisning","34 Innlandet",42,2,2
+"1632",202009,"Undervisning","34 Innlandet",45,93,87
+"1633",202009,"Undervisning","38 Telemark og Vestfold",42,8,8
+"1634",202009,"Undervisning","38 Telemark og Vestfold",45,117,118
+"1635",202009,"Undervisning","42 Agder",42,7,8
+"1636",202009,"Undervisning","42 Agder",45,97,101
+"1637",202009,"Undervisning","46 Vestland",42,2,3
+"1638",202009,"Undervisning","46 Vestland",45,192,187
+"1639",202009,"Undervisning","50 Trøndelag",42,8,8
+"1640",202009,"Undervisning","50 Trøndelag",45,125,112
+"1641",202009,"Undervisning","54 Finnmark og Troms",42,4,4
+"1642",202009,"Undervisning","54 Finnmark og Troms",45,110,111
+"1643",202009,"Undervisning","99 øvrige omrøder",45,2,2
+"1644",202009,"Undervisning","UTLAND",36,1,NA
+"1645",202010,"Akademiske yrker","03 Oslo",42,7,6
+"1646",202010,"Akademiske yrker","03 Oslo",45,441,441
+"1647",202010,"Akademiske yrker","11 Rogaland",42,9,9
+"1648",202010,"Akademiske yrker","11 Rogaland",45,81,86
+"1649",202010,"Akademiske yrker","15 Møre og Romsdal",42,4,4
+"1650",202010,"Akademiske yrker","15 Møre og Romsdal",45,60,58
+"1651",202010,"Akademiske yrker","18 Nordland",42,1,NA
+"1652",202010,"Akademiske yrker","18 Nordland",45,26,26
+"1653",202010,"Akademiske yrker","30 Viken",42,7,7
+"1654",202010,"Akademiske yrker","30 Viken",45,185,188
+"1655",202010,"Akademiske yrker","34 Innlandet",45,69,75
+"1656",202010,"Akademiske yrker","38 Telemark og Vestfold",42,11,12
+"1657",202010,"Akademiske yrker","38 Telemark og Vestfold",45,68,66
+"1658",202010,"Akademiske yrker","42 Agder",42,8,5
+"1659",202010,"Akademiske yrker","42 Agder",45,39,40
+"1660",202010,"Akademiske yrker","46 Vestland",42,1,1
+"1661",202010,"Akademiske yrker","46 Vestland",45,156,147
+"1662",202010,"Akademiske yrker","50 Trøndelag",42,4,4
+"1663",202010,"Akademiske yrker","50 Trøndelag",45,92,77
+"1664",202010,"Akademiske yrker","54 Finnmark og Troms",42,2,3
+"1665",202010,"Akademiske yrker","54 Finnmark og Troms",45,112,113
+"1666",202010,"Akademiske yrker","99 øvrige omrøder",45,1,1
+"1667",202010,"Akademiske yrker","UTLAND",36,1,NA
+"1668",202010,"Barne- og ungdomsarbeid","03 Oslo",42,3,3
+"1669",202010,"Barne- og ungdomsarbeid","03 Oslo",45,146,147
+"1670",202010,"Barne- og ungdomsarbeid","11 Rogaland",42,4,4
+"1671",202010,"Barne- og ungdomsarbeid","11 Rogaland",45,59,58
+"1672",202010,"Barne- og ungdomsarbeid","15 Møre og Romsdal",42,3,3
+"1673",202010,"Barne- og ungdomsarbeid","15 Møre og Romsdal",45,18,18
+"1674",202010,"Barne- og ungdomsarbeid","18 Nordland",42,4,3
+"1675",202010,"Barne- og ungdomsarbeid","18 Nordland",45,14,14
+"1676",202010,"Barne- og ungdomsarbeid","30 Viken",42,14,14
+"1677",202010,"Barne- og ungdomsarbeid","30 Viken",45,217,216
+"1678",202010,"Barne- og ungdomsarbeid","34 Innlandet",42,5,5
+"1679",202010,"Barne- og ungdomsarbeid","34 Innlandet",45,14,14
+"1680",202010,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",42,12,12
+"1681",202010,"Barne- og ungdomsarbeid","38 Telemark og Vestfold",45,54,54
+"1682",202010,"Barne- og ungdomsarbeid","42 Agder",42,13,6
+"1683",202010,"Barne- og ungdomsarbeid","42 Agder",45,22,21
+"1684",202010,"Barne- og ungdomsarbeid","46 Vestland",42,14,21
+"1685",202010,"Barne- og ungdomsarbeid","46 Vestland",45,117,116
+"1686",202010,"Barne- og ungdomsarbeid","50 Trøndelag",42,12,12
+"1687",202010,"Barne- og ungdomsarbeid","50 Trøndelag",45,67,49
+"1688",202010,"Barne- og ungdomsarbeid","54 Finnmark og Troms",42,10,10
+"1689",202010,"Barne- og ungdomsarbeid","54 Finnmark og Troms",45,77,78
+"1690",202010,"Butikk- og salgsarbeid","03 Oslo",36,1,NA
+"1691",202010,"Butikk- og salgsarbeid","03 Oslo",42,22,22
+"1692",202010,"Butikk- og salgsarbeid","03 Oslo",45,651,669
+"1693",202010,"Butikk- og salgsarbeid","11 Rogaland",42,10,10
+"1694",202010,"Butikk- og salgsarbeid","11 Rogaland",45,170,163
+"1695",202010,"Butikk- og salgsarbeid","15 Møre og Romsdal",42,16,13
+"1696",202010,"Butikk- og salgsarbeid","15 Møre og Romsdal",45,100,103
+"1697",202010,"Butikk- og salgsarbeid","18 Nordland",42,28,28
+"1698",202010,"Butikk- og salgsarbeid","18 Nordland",45,77,77
+"1699",202010,"Butikk- og salgsarbeid","30 Viken",42,67,71
+"1700",202010,"Butikk- og salgsarbeid","30 Viken",45,557,559
+"1701",202010,"Butikk- og salgsarbeid","34 Innlandet",42,23,22
+"1702",202010,"Butikk- og salgsarbeid","34 Innlandet",45,113,114
+"1703",202010,"Butikk- og salgsarbeid","38 Telemark og Vestfold",42,96,93
+"1704",202010,"Butikk- og salgsarbeid","38 Telemark og Vestfold",45,166,161
+"1705",202010,"Butikk- og salgsarbeid","42 Agder",42,34,34
+"1706",202010,"Butikk- og salgsarbeid","42 Agder",45,114,116
+"1707",202010,"Butikk- og salgsarbeid","46 Vestland",42,37,36
+"1708",202010,"Butikk- og salgsarbeid","46 Vestland",45,237,241
+"1709",202010,"Butikk- og salgsarbeid","50 Trøndelag",42,41,40
+"1710",202010,"Butikk- og salgsarbeid","50 Trøndelag",45,162,164
+"1711",202010,"Butikk- og salgsarbeid","54 Finnmark og Troms",42,20,19
+"1712",202010,"Butikk- og salgsarbeid","54 Finnmark og Troms",45,76,71
+"1713",202010,"Butikk- og salgsarbeid","UTLAND",36,1,NA
+"1714",202010,"Bygg og anlegg","03 Oslo",42,3,6
+"1715",202010,"Bygg og anlegg","03 Oslo",45,506,472
+"1716",202010,"Bygg og anlegg","11 Rogaland",42,73,71
+"1717",202010,"Bygg og anlegg","11 Rogaland",45,289,279
+"1718",202010,"Bygg og anlegg","15 Møre og Romsdal",42,10,10
+"1719",202010,"Bygg og anlegg","15 Møre og Romsdal",45,100,87
+"1720",202010,"Bygg og anlegg","18 Nordland",42,9,8
+"1721",202010,"Bygg og anlegg","18 Nordland",45,76,76
+"1722",202010,"Bygg og anlegg","30 Viken",42,28,31
+"1723",202010,"Bygg og anlegg","30 Viken",45,412,448
+"1724",202010,"Bygg og anlegg","34 Innlandet",42,9,10
+"1725",202010,"Bygg og anlegg","34 Innlandet",45,84,78
+"1726",202010,"Bygg og anlegg","38 Telemark og Vestfold",42,74,79
+"1727",202010,"Bygg og anlegg","38 Telemark og Vestfold",45,137,118
+"1728",202010,"Bygg og anlegg","42 Agder",42,38,31
+"1729",202010,"Bygg og anlegg","42 Agder",45,58,62
+"1730",202010,"Bygg og anlegg","46 Vestland",42,54,50
+"1731",202010,"Bygg og anlegg","46 Vestland",45,387,383
+"1732",202010,"Bygg og anlegg","50 Trøndelag",42,51,48
+"1733",202010,"Bygg og anlegg","50 Trøndelag",45,225,213
+"1734",202010,"Bygg og anlegg","54 Finnmark og Troms",42,23,33
+"1735",202010,"Bygg og anlegg","54 Finnmark og Troms",45,48,39
+"1736",202010,"Bygg og anlegg","99 øvrige omrøder",45,1,1
+"1737",202010,"Helse, pleie og omsorg","03 Oslo",42,10,10
+"1738",202010,"Helse, pleie og omsorg","03 Oslo",45,788,787
+"1739",202010,"Helse, pleie og omsorg","11 Rogaland",42,7,23
+"1740",202010,"Helse, pleie og omsorg","11 Rogaland",45,483,477
+"1741",202010,"Helse, pleie og omsorg","15 Møre og Romsdal",42,5,5
+"1742",202010,"Helse, pleie og omsorg","15 Møre og Romsdal",45,354,356
+"1743",202010,"Helse, pleie og omsorg","18 Nordland",42,4,3
+"1744",202010,"Helse, pleie og omsorg","18 Nordland",45,354,355
+"1745",202010,"Helse, pleie og omsorg","30 Viken",42,22,22
+"1746",202010,"Helse, pleie og omsorg","30 Viken",45,1297,1301
+"1747",202010,"Helse, pleie og omsorg","34 Innlandet",42,21,6
+"1748",202010,"Helse, pleie og omsorg","34 Innlandet",45,366,363
+"1749",202010,"Helse, pleie og omsorg","38 Telemark og Vestfold",42,19,19
+"1750",202010,"Helse, pleie og omsorg","38 Telemark og Vestfold",45,380,382
+"1751",202010,"Helse, pleie og omsorg","42 Agder",42,30,29
+"1752",202010,"Helse, pleie og omsorg","42 Agder",45,303,283
+"1753",202010,"Helse, pleie og omsorg","46 Vestland",42,10,10
+"1754",202010,"Helse, pleie og omsorg","46 Vestland",45,722,674
+"1755",202010,"Helse, pleie og omsorg","50 Trøndelag",42,25,25
+"1756",202010,"Helse, pleie og omsorg","50 Trøndelag",45,433,361
+"1757",202010,"Helse, pleie og omsorg","54 Finnmark og Troms",42,9,9
+"1758",202010,"Helse, pleie og omsorg","54 Finnmark og Troms",45,490,488
+"1759",202010,"Helse, pleie og omsorg","UTLAND",36,4,NA
+"1760",202010,"Helse, pleie og omsorg","UTLAND",45,1,NA
+"1761",202010,"Industriarbeid","03 Oslo",42,8,10
+"1762",202010,"Industriarbeid","03 Oslo",45,201,193
+"1763",202010,"Industriarbeid","11 Rogaland",42,50,49
+"1764",202010,"Industriarbeid","11 Rogaland",45,104,99
+"1765",202010,"Industriarbeid","15 Møre og Romsdal",42,42,42
+"1766",202010,"Industriarbeid","15 Møre og Romsdal",45,71,65
+"1767",202010,"Industriarbeid","18 Nordland",42,28,25
+"1768",202010,"Industriarbeid","18 Nordland",45,39,40
+"1769",202010,"Industriarbeid","30 Viken",42,39,40
+"1770",202010,"Industriarbeid","30 Viken",45,222,238
+"1771",202010,"Industriarbeid","34 Innlandet",42,17,17
+"1772",202010,"Industriarbeid","34 Innlandet",45,46,45
+"1773",202010,"Industriarbeid","38 Telemark og Vestfold",42,104,102
+"1774",202010,"Industriarbeid","38 Telemark og Vestfold",45,115,138
+"1775",202010,"Industriarbeid","42 Agder",42,44,42
+"1776",202010,"Industriarbeid","42 Agder",45,75,77
+"1777",202010,"Industriarbeid","46 Vestland",42,62,61
+"1778",202010,"Industriarbeid","46 Vestland",45,315,209
+"1779",202010,"Industriarbeid","50 Trøndelag",42,68,67
+"1780",202010,"Industriarbeid","50 Trøndelag",45,99,102
+"1781",202010,"Industriarbeid","54 Finnmark og Troms",42,17,17
+"1782",202010,"Industriarbeid","54 Finnmark og Troms",45,39,40
+"1783",202010,"Industriarbeid","UKJENT",45,NA,5
+"1784",202010,"Industriarbeid","UTLAND",36,3,NA
+"1785",202010,"Industriarbeid","UTLAND",42,1,NA
+"1786",202010,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",42,1,1
+"1787",202010,"Ingen yrkesbakgrunn eller uoppgitt","03 Oslo",45,NA,1
+"1788",202010,"Ingen yrkesbakgrunn eller uoppgitt","11 Rogaland",42,5,5
+"1789",202010,"Ingen yrkesbakgrunn eller uoppgitt","11 Rogaland",45,1,1
+"1790",202010,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",42,5,5
+"1791",202010,"Ingen yrkesbakgrunn eller uoppgitt","15 Møre og Romsdal",45,1,8
+"1792",202010,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",42,11,10
+"1793",202010,"Ingen yrkesbakgrunn eller uoppgitt","18 Nordland",45,NA,1
+"1794",202010,"Ingen yrkesbakgrunn eller uoppgitt","30 Viken",42,67,67
+"1795",202010,"Ingen yrkesbakgrunn eller uoppgitt","34 Innlandet",42,13,12
+"1796",202010,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",42,96,96
+"1797",202010,"Ingen yrkesbakgrunn eller uoppgitt","38 Telemark og Vestfold",45,NA,1
+"1798",202010,"Ingen yrkesbakgrunn eller uoppgitt","42 Agder",42,12,12
+"1799",202010,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",42,21,21
+"1800",202010,"Ingen yrkesbakgrunn eller uoppgitt","46 Vestland",45,NA,2
+"1801",202010,"Ingen yrkesbakgrunn eller uoppgitt","50 Trøndelag",42,9,8
+"1802",202010,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",42,14,14
+"1803",202010,"Ingen yrkesbakgrunn eller uoppgitt","54 Finnmark og Troms",45,NA,1
+"1804",202010,"Ingeni?r- og ikt-fag","03 Oslo",42,10,8
+"1805",202010,"Ingeni?r- og ikt-fag","03 Oslo",45,795,805
+"1806",202010,"Ingeni?r- og ikt-fag","11 Rogaland",42,9,9
+"1807",202010,"Ingeni?r- og ikt-fag","11 Rogaland",45,299,299
+"1808",202010,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",42,1,1
+"1809",202010,"Ingeni?r- og ikt-fag","15 Møre og Romsdal",45,95,95
+"1810",202010,"Ingeni?r- og ikt-fag","18 Nordland",42,4,3
+"1811",202010,"Ingeni?r- og ikt-fag","18 Nordland",45,74,72
+"1812",202010,"Ingeni?r- og ikt-fag","30 Viken",42,11,13
+"1813",202010,"Ingeni?r- og ikt-fag","30 Viken",45,477,488
+"1814",202010,"Ingeni?r- og ikt-fag","34 Innlandet",42,3,3
+"1815",202010,"Ingeni?r- og ikt-fag","34 Innlandet",45,67,68
+"1816",202010,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",42,30,29
+"1817",202010,"Ingeni?r- og ikt-fag","38 Telemark og Vestfold",45,95,96
+"1818",202010,"Ingeni?r- og ikt-fag","42 Agder",42,13,12
+"1819",202010,"Ingeni?r- og ikt-fag","42 Agder",45,116,115
+"1820",202010,"Ingeni?r- og ikt-fag","46 Vestland",42,7,6
+"1821",202010,"Ingeni?r- og ikt-fag","46 Vestland",45,231,230
+"1822",202010,"Ingeni?r- og ikt-fag","50 Trøndelag",42,21,21
+"1823",202010,"Ingeni?r- og ikt-fag","50 Trøndelag",45,206,203
+"1824",202010,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",42,8,8
+"1825",202010,"Ingeni?r- og ikt-fag","54 Finnmark og Troms",45,85,86
+"1826",202010,"Ingeni?r- og ikt-fag","99 øvrige omrøder",45,4,4
+"1827",202010,"Ingeni?r- og ikt-fag","UTLAND",36,8,NA
+"1828",202010,"Ingeni?r- og ikt-fag","UTLAND",45,2,NA
+"1829",202010,"Jordbruk, skogbruk og fiske","03 Oslo",45,14,14
+"1830",202010,"Jordbruk, skogbruk og fiske","11 Rogaland",42,2,2
+"1831",202010,"Jordbruk, skogbruk og fiske","11 Rogaland",45,2,3
+"1832",202010,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",42,2,2
+"1833",202010,"Jordbruk, skogbruk og fiske","15 Møre og Romsdal",45,7,8
+"1834",202010,"Jordbruk, skogbruk og fiske","18 Nordland",45,17,17
+"1835",202010,"Jordbruk, skogbruk og fiske","30 Viken",42,14,14
+"1836",202010,"Jordbruk, skogbruk og fiske","30 Viken",45,8,8
+"1837",202010,"Jordbruk, skogbruk og fiske","34 Innlandet",42,1,1
+"1838",202010,"Jordbruk, skogbruk og fiske","34 Innlandet",45,11,11
+"1839",202010,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",42,9,9
+"1840",202010,"Jordbruk, skogbruk og fiske","38 Telemark og Vestfold",45,2,2
+"1841",202010,"Jordbruk, skogbruk og fiske","42 Agder",42,4,4
+"1842",202010,"Jordbruk, skogbruk og fiske","42 Agder",45,5,4
+"1843",202010,"Jordbruk, skogbruk og fiske","46 Vestland",42,2,2
+"1844",202010,"Jordbruk, skogbruk og fiske","46 Vestland",45,17,17
+"1845",202010,"Jordbruk, skogbruk og fiske","50 Trøndelag",42,4,4
+"1846",202010,"Jordbruk, skogbruk og fiske","50 Trøndelag",45,7,7
+"1847",202010,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",42,11,11
+"1848",202010,"Jordbruk, skogbruk og fiske","54 Finnmark og Troms",45,5,5
+"1849",202010,"Kontorarbeid","03 Oslo",36,3,NA
+"1850",202010,"Kontorarbeid","03 Oslo",42,92,85
+"1851",202010,"Kontorarbeid","03 Oslo",45,543,535
+"1852",202010,"Kontorarbeid","11 Rogaland",42,23,23
+"1853",202010,"Kontorarbeid","11 Rogaland",45,134,133
+"1854",202010,"Kontorarbeid","15 Møre og Romsdal",42,5,4
+"1855",202010,"Kontorarbeid","15 Møre og Romsdal",45,62,31
+"1856",202010,"Kontorarbeid","18 Nordland",42,5,5
+"1857",202010,"Kontorarbeid","18 Nordland",45,29,29
+"1858",202010,"Kontorarbeid","30 Viken",42,85,89
+"1859",202010,"Kontorarbeid","30 Viken",45,319,325
+"1860",202010,"Kontorarbeid","34 Innlandet",42,26,26
+"1861",202010,"Kontorarbeid","34 Innlandet",45,29,30
+"1862",202010,"Kontorarbeid","38 Telemark og Vestfold",42,43,41
+"1863",202010,"Kontorarbeid","38 Telemark og Vestfold",45,94,93
+"1864",202010,"Kontorarbeid","42 Agder",42,32,32
+"1865",202010,"Kontorarbeid","42 Agder",45,44,40
+"1866",202010,"Kontorarbeid","46 Vestland",42,20,21
+"1867",202010,"Kontorarbeid","46 Vestland",45,103,100
+"1868",202010,"Kontorarbeid","50 Trøndelag",42,41,41
+"1869",202010,"Kontorarbeid","50 Trøndelag",45,98,94
+"1870",202010,"Kontorarbeid","54 Finnmark og Troms",42,2,2
+"1871",202010,"Kontorarbeid","54 Finnmark og Troms",45,46,53
+"1872",202010,"Kontorarbeid","UKJENT",42,NA,1
+"1873",202010,"Kontorarbeid","UTLAND",36,3,NA
+"1874",202010,"Ledere","03 Oslo",42,1,NA
+"1875",202010,"Ledere","03 Oslo",45,277,277
+"1876",202010,"Ledere","11 Rogaland",45,48,46
+"1877",202010,"Ledere","15 Møre og Romsdal",45,28,28
+"1878",202010,"Ledere","18 Nordland",42,NA,1
+"1879",202010,"Ledere","18 Nordland",45,25,27
+"1880",202010,"Ledere","30 Viken",42,1,2
+"1881",202010,"Ledere","30 Viken",45,120,118
+"1882",202010,"Ledere","34 Innlandet",42,1,1
+"1883",202010,"Ledere","34 Innlandet",45,27,27
+"1884",202010,"Ledere","38 Telemark og Vestfold",42,1,1
+"1885",202010,"Ledere","38 Telemark og Vestfold",45,39,40
+"1886",202010,"Ledere","42 Agder",42,1,NA
+"1887",202010,"Ledere","42 Agder",45,15,15
+"1888",202010,"Ledere","46 Vestland",42,1,1
+"1889",202010,"Ledere","46 Vestland",45,67,68
+"1890",202010,"Ledere","50 Trøndelag",42,1,1
+"1891",202010,"Ledere","50 Trøndelag",45,45,44
+"1892",202010,"Ledere","54 Finnmark og Troms",42,1,1
+"1893",202010,"Ledere","54 Finnmark og Troms",45,26,27
+"1894",202010,"Ledere","99 øvrige omrøder",45,1,1
+"1895",202010,"Ledere","UTLAND",36,4,NA
+"1896",202010,"Meglere og konsulenter","03 Oslo",42,2,2
+"1897",202010,"Meglere og konsulenter","03 Oslo",45,294,294
+"1898",202010,"Meglere og konsulenter","11 Rogaland",42,5,5
+"1899",202010,"Meglere og konsulenter","11 Rogaland",45,63,59
+"1900",202010,"Meglere og konsulenter","15 Møre og Romsdal",42,5,5
+"1901",202010,"Meglere og konsulenter","15 Møre og Romsdal",45,19,19
+"1902",202010,"Meglere og konsulenter","18 Nordland",42,3,2
+"1903",202010,"Meglere og konsulenter","18 Nordland",45,45,45
+"1904",202010,"Meglere og konsulenter","30 Viken",42,6,6
+"1905",202010,"Meglere og konsulenter","30 Viken",45,187,188
+"1906",202010,"Meglere og konsulenter","34 Innlandet",42,2,NA
+"1907",202010,"Meglere og konsulenter","34 Innlandet",45,47,46
+"1908",202010,"Meglere og konsulenter","38 Telemark og Vestfold",42,8,8
+"1909",202010,"Meglere og konsulenter","38 Telemark og Vestfold",45,55,56
+"1910",202010,"Meglere og konsulenter","42 Agder",42,3,3
+"1911",202010,"Meglere og konsulenter","42 Agder",45,34,39
+"1912",202010,"Meglere og konsulenter","46 Vestland",42,4,4
+"1913",202010,"Meglere og konsulenter","46 Vestland",45,106,106
+"1914",202010,"Meglere og konsulenter","50 Trøndelag",42,5,5
+"1915",202010,"Meglere og konsulenter","50 Trøndelag",45,106,101
+"1916",202010,"Meglere og konsulenter","54 Finnmark og Troms",45,29,28
+"1917",202010,"Reiseliv og transport","03 Oslo",42,33,38
+"1918",202010,"Reiseliv og transport","03 Oslo",45,225,220
+"1919",202010,"Reiseliv og transport","11 Rogaland",42,18,18
+"1920",202010,"Reiseliv og transport","11 Rogaland",45,67,68
+"1921",202010,"Reiseliv og transport","15 Møre og Romsdal",42,24,24
+"1922",202010,"Reiseliv og transport","15 Møre og Romsdal",45,57,57
+"1923",202010,"Reiseliv og transport","18 Nordland",42,14,14
+"1924",202010,"Reiseliv og transport","18 Nordland",45,73,74
+"1925",202010,"Reiseliv og transport","30 Viken",42,45,45
+"1926",202010,"Reiseliv og transport","30 Viken",45,150,152
+"1927",202010,"Reiseliv og transport","34 Innlandet",42,8,8
+"1928",202010,"Reiseliv og transport","34 Innlandet",45,36,36
+"1929",202010,"Reiseliv og transport","38 Telemark og Vestfold",42,26,26
+"1930",202010,"Reiseliv og transport","38 Telemark og Vestfold",45,201,200
+"1931",202010,"Reiseliv og transport","42 Agder",42,31,28
+"1932",202010,"Reiseliv og transport","42 Agder",45,33,28
+"1933",202010,"Reiseliv og transport","46 Vestland",42,18,15
+"1934",202010,"Reiseliv og transport","46 Vestland",45,286,281
+"1935",202010,"Reiseliv og transport","50 Trøndelag",42,41,41
+"1936",202010,"Reiseliv og transport","50 Trøndelag",45,70,72
+"1937",202010,"Reiseliv og transport","54 Finnmark og Troms",42,10,10
+"1938",202010,"Reiseliv og transport","54 Finnmark og Troms",45,47,56
+"1939",202010,"Reiseliv og transport","UTLAND",45,3,NA
+"1940",202010,"Serviceyrker og annet arbeid","03 Oslo",42,10,14
+"1941",202010,"Serviceyrker og annet arbeid","03 Oslo",45,363,366
+"1942",202010,"Serviceyrker og annet arbeid","11 Rogaland",42,16,16
+"1943",202010,"Serviceyrker og annet arbeid","11 Rogaland",45,115,116
+"1944",202010,"Serviceyrker og annet arbeid","15 Møre og Romsdal",42,10,10
+"1945",202010,"Serviceyrker og annet arbeid","15 Møre og Romsdal",45,69,61
+"1946",202010,"Serviceyrker og annet arbeid","18 Nordland",42,8,7
+"1947",202010,"Serviceyrker og annet arbeid","18 Nordland",45,88,90
+"1948",202010,"Serviceyrker og annet arbeid","30 Viken",42,56,56
+"1949",202010,"Serviceyrker og annet arbeid","30 Viken",45,280,275
+"1950",202010,"Serviceyrker og annet arbeid","34 Innlandet",42,27,27
+"1951",202010,"Serviceyrker og annet arbeid","34 Innlandet",45,95,93
+"1952",202010,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",42,30,25
+"1953",202010,"Serviceyrker og annet arbeid","38 Telemark og Vestfold",45,90,91
+"1954",202010,"Serviceyrker og annet arbeid","42 Agder",42,20,19
+"1955",202010,"Serviceyrker og annet arbeid","42 Agder",45,69,66
+"1956",202010,"Serviceyrker og annet arbeid","46 Vestland",42,42,44
+"1957",202010,"Serviceyrker og annet arbeid","46 Vestland",45,148,152
+"1958",202010,"Serviceyrker og annet arbeid","50 Trøndelag",42,38,35
+"1959",202010,"Serviceyrker og annet arbeid","50 Trøndelag",45,76,75
+"1960",202010,"Serviceyrker og annet arbeid","54 Finnmark og Troms",42,25,24
+"1961",202010,"Serviceyrker og annet arbeid","54 Finnmark og Troms",45,88,88
+"1962",202010,"Serviceyrker og annet arbeid","99 øvrige omrøder",45,4,4
+"1963",202010,"Serviceyrker og annet arbeid","UTLAND",36,2,NA
+"1964",202010,"Undervisning","03 Oslo",42,13,13
+"1965",202010,"Undervisning","03 Oslo",45,328,327
+"1966",202010,"Undervisning","11 Rogaland",42,1,3
+"1967",202010,"Undervisning","11 Rogaland",45,151,154
+"1968",202010,"Undervisning","15 Møre og Romsdal",42,1,1
+"1969",202010,"Undervisning","15 Møre og Romsdal",45,72,68
+"1970",202010,"Undervisning","18 Nordland",42,2,2
+"1971",202010,"Undervisning","18 Nordland",45,66,66
+"1972",202010,"Undervisning","30 Viken",42,2,2
+"1973",202010,"Undervisning","30 Viken",45,329,326
+"1974",202010,"Undervisning","34 Innlandet",42,5,3
+"1975",202010,"Undervisning","34 Innlandet",45,93,93
+"1976",202010,"Undervisning","38 Telemark og Vestfold",42,6,6
+"1977",202010,"Undervisning","38 Telemark og Vestfold",45,98,98
+"1978",202010,"Undervisning","42 Agder",42,6,6
+"1979",202010,"Undervisning","42 Agder",45,48,49
+"1980",202010,"Undervisning","46 Vestland",42,3,3
+"1981",202010,"Undervisning","46 Vestland",45,148,146
+"1982",202010,"Undervisning","50 Trøndelag",42,5,5
+"1983",202010,"Undervisning","50 Trøndelag",45,216,216
+"1984",202010,"Undervisning","54 Finnmark og Troms",42,2,2
+"1985",202010,"Undervisning","54 Finnmark og Troms",45,105,104
+"1986",202010,"Undervisning","99 øvrige omrøder",45,1,1

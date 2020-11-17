@@ -137,8 +137,14 @@ bransje_mnd_plot <- ggplot(tilgang_mnd_bransje, aes(x = bransje_grov, y = tilgan
 ggplotly(bransje_mnd_plot)
 
 
-tilgang_stilling %>% filter(bransje_grovgruppetekst == "Ingeni?r- og ikt-fag" & aarmnd == 202009) %>%
-  group_by(versjon) %>% summarise(sum(tilgang))
+#lage csv
+tilgang_csv <-  tilgang_stilling %>% group_by(aarmnd, bransje_grov, fylkesnavn, stilling_kilde_id, versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
+tilgang_csv <- dcast(tilgang_csv, aarmnd + bransje_grov+ fylkesnavn+ stilling_kilde_id ~ versjon, value.var = "tilgang_sum")
+write.csv(tilgang_csv, file = "tilgang_sammenligning_rådata.csv")
+
+
+# tilgang_stilling %>% filter(bransje_grovgruppetekst == "Ingeni?r- og ikt-fag" & aarmnd == 202009) %>%
+#   group_by(versjon) %>% summarise(sum(tilgang))
 
 # #setDT(df_new)
 # setnames(df_new,tolower(names(df_new)) )
