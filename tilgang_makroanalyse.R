@@ -60,27 +60,70 @@ setnames(tilgang_stilling, c('bransje_grovgruppetekst'), c('bransje_grov'))
 
 tilgang_stilling[,fylkesnavn := stringi::stri_replace_all_regex(fylkesnavn,"\\?", "ø")]
 
+tilgang_stilling <- tilgang_stilling[tilgang>0]
 saveRDS(tilgang_stilling, file = "tilgang_stilling.rds")
+
 #---------------------------------------------------------------------------------------------------
 # start her om ikke dataene er endret!
 #---------------------------------------------------------------------------------------------------
+nav_palett <- c("#C30000", "#78706A","#3E3832")
+#rød, grå, lys: https://design.nav.no/resources/colors
 
 tilgang_stilling = readRDS("tilgang_stilling.rds")
 
 #test <- tilgang_stilling[, sum(tilgang), by = .(aarmnd, versjon)]
-
+#Per måned---------------------------------------
 tilgang_mnd <-  tilgang_stilling %>% group_by(aarmnd,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
 mnd_plot <- ggplot(tilgang_mnd, aes(x = aarmnd, y = tilgang_sum, fill = versjon)) + 
-  geom_bar(stat = "identity", position = "dodge")
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per måned") +
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
+mnd_plot
 ggplotly(mnd_plot)
 
+tilgang_mnd_wide <- dcast(tilgang_mnd, aarmnd ~ versjon, value.var = "tilgang_sum")
+
+#Per bransje---------------------------------------
 tilgang_bransje <-  tilgang_stilling %>% group_by(bransje_grov,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
-bransje_plot <- ggplot(tilgang_bransje, aes(x = bransje_grov, y = tilgang_sum, fill = versjon)) + geom_bar(stat = "identity", position = "dodge")
+
+bransje_plot <- ggplot(tilgang_bransje, aes(x = bransje_grov, y = tilgang_sum, fill = versjon)) + 
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per Bransje (grovgruppekode)") +
+  coord_flip() + 
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
+#theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+bransje_plot
+
 ggplotly(bransje_plot)
 
+tilgang_bransje_fin <-  tilgang_stilling %>% group_by(bransje_fingruppetekst,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
+
+bransje_plot2 <- ggplot(tilgang_bransje_fin, aes(x = bransje_fingruppetekst, y = tilgang_sum, fill = versjon)) + 
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per Bransje (fingruppekode)") +
+  coord_flip() + 
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
+
+bransje_plot2
+
+tilgang_bransje_wide <- dcast(tilgang_bransje, bransje_grov ~ versjon, value.var = "tilgang_sum")
+
+#Per fylke ---------------------------------------
 tilgang_fylke <-  tilgang_stilling %>% group_by(fylkesnavn,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
-tilgang_fylke <- tilgang_fylke[tilgang_sum != 0]
-fylke_plot <- ggplot(tilgang_fylke, aes(x = fylkesnavn, y = tilgang_sum, fill = versjon)) + geom_bar(stat = "identity", position = "dodge")
+
+fylke_plot <- ggplot(tilgang_fylke, aes(x = fylkesnavn, y = tilgang_sum, fill = versjon)) + 
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per Fylke") +
+  coord_flip() + 
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
+
+fylke_plot
+
 ggplotly(fylke_plot)
 
 tilgang_kilde <-  tilgang_stilling %>% group_by(stilling_kilde_id,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()

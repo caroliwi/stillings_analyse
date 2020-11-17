@@ -10,21 +10,96 @@ library(data.table)
 library(ggplot2)
 library(plotly)
 tilgang_stilling = readRDS("tilgang_stilling.rds")
+nav_palett <- c("#C30000", "#78706A","#3E3832")
 ```
+
+Vi har sett litt på forskjellen av beregning av tilganger og beholdning av stillinger med ny og gammel løsning. Den gamle løsningen leser fra Arena (hvor kafka topicet blir pre-prossesert) og kjørt gjennom Ainfo. Litt dokumentasjon finnes [her](https://confluence.adeo.no/pages/viewpage.action?pageId=366840526). Den nye løsningen aggregerer stillingene i python, dokumentasjon finnes her. 
+
+Vi inkluderer alle stillinger fra mai til oktober 2020 i denne sammenligningen.
 
 ## Tilgang per måned
 
-Se dokumentasjon på beregning av tilganger. Her ser vi litt på forskjellen på Ainfo-tallene og ny løsning.
+Vi prøver å telle antall nye stillinger som blir annonsert hver måned.
 
-```{r, echo = FALSE, include=TRUE}
+```{r, echo = FALSE, include=TRUE, warning=FALSE, message=FALSE}
 tilgang_mnd <-  tilgang_stilling %>% group_by(aarmnd,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
 mnd_plot <- ggplot(tilgang_mnd, aes(x = aarmnd, y = tilgang_sum, fill = versjon)) + 
-  geom_bar(stat = "identity", position = "dodge")
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per måned") +
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
 mnd_plot
 
 ```
 
-## Including Plots
+Som tabell:
 
-You can also embed plots, for example:
+```{r, echo = FALSE}
+tilgang_mnd_wide <- dcast(tilgang_mnd, aarmnd ~ versjon, value.var = "tilgang_sum")
+knitr::kable(tilgang_mnd_wide)
+```
+
+## Tilgang per bransje
+
+Vi prøver å telle antall nye stillinger som blir annonsert per bransje (funnet fra dimensjoner2.dim_styrk).
+
+```{r, echo = FALSE, include=TRUE, warning=FALSE, message=FALSE}
+tilgang_bransje <-  tilgang_stilling %>% group_by(bransje_grov,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
+
+bransje_plot <- ggplot(tilgang_bransje, aes(x = bransje_grov, y = tilgang_sum, fill = versjon)) + 
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per Bransje (grovgruppekode)") +
+  coord_flip() + 
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
+
+bransje_plot
+
+```
+
+Som tabell:
+
+```{r, echo = FALSE}
+tilgang_bransje_wide <- dcast(tilgang_bransje, bransje_grov ~ versjon, value.var = "tilgang_sum")
+knitr::kable(tilgang_bransje_wide)
+```
+
+```{r, echo = FALSE, include=TRUE, warning=FALSE, message=FALSE}
+tilgang_bransje_fin <-  tilgang_stilling %>% group_by(bransje_fingruppetekst,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
+
+bransje_plot2 <- ggplot(tilgang_bransje_fin, aes(x = bransje_fingruppetekst, y = tilgang_sum, fill = versjon)) + 
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per Bransje (fingruppekode)") +
+  coord_flip() + 
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
+
+bransje_plot2
+```
+
+
+## Tilgang per fylke
+
+
+
+```{r, echo = FALSE, include=TRUE, warning=FALSE, message=FALSE}
+tilgang_fylke <-  tilgang_stilling %>% group_by(fylkesnavn,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
+
+fylke_plot <- ggplot(tilgang_fylke, aes(x = fylkesnavn, y = tilgang_sum, fill = versjon)) + 
+  geom_bar(stat = "identity", position = "dodge") +
+  ggtitle("Tilgang per Fylke") +
+  coord_flip() + 
+  theme(axis.title=element_blank(),legend.title = element_blank()) +
+  scale_fill_manual(values=nav_palett)
+
+fylke_plot
+
+```
+
+Som tabell:
+
+```{r, echo = FALSE}
+tilgang_fylke_wide <- dcast(tilgang_fylke, fylkesnavn ~ versjon, value.var = "tilgang_sum")
+knitr::kable(tilgang_fylke_wide)
+```
 
