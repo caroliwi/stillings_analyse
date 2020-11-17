@@ -48,8 +48,9 @@ setnames(df_new,tolower(names(df_new)))
 setnames(df_old,tolower(names(df_old)))
 
 #litt generelle tall
-plyr::count(df_old[tilgang>0, fylkesnavn])
+
 plyr::count(df_new[tilgang>0, fylkesnavn])
+plyr::count(df_old[tilgang>0, fylkesnavn])
 
 df_new[,versjon := "kafka"]
 df_old[,versjon := "ainfo"]
@@ -57,7 +58,14 @@ df_old[,versjon := "ainfo"]
 tilgang_stilling <- rbind(df_new, df_old)
 setnames(tilgang_stilling, c('bransje_grovgruppetekst'), c('bransje_grov'))
 
-tilgang_stilling[,fylkesnavn := stringi::stri_replace_all_fixed(fylkesnavn,"?", "ø")]
+tilgang_stilling[,fylkesnavn := stringi::stri_replace_all_regex(fylkesnavn,"\\?", "ø")]
+
+saveRDS(tilgang_stilling, file = "tilgang_stilling.rds")
+#---------------------------------------------------------------------------------------------------
+# start her om ikke dataene er endret!
+#---------------------------------------------------------------------------------------------------
+
+tilgang_stilling = readRDS("tilgang_stilling.rds")
 
 #test <- tilgang_stilling[, sum(tilgang), by = .(aarmnd, versjon)]
 
