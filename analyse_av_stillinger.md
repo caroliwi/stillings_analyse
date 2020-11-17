@@ -1,28 +1,15 @@
----
-title: "Analyse av stillinger"
-output: 
-  html_document:
-    keep_md: true
----
-
-
+Analyse av stillinger
+================
 
 ## Tilgang per måned
 
-Se dokumentasjon på beregning av tilganger. Her ser vi litt på forskjellen på Ainfo-tallene og ny løsning.
+Se dokumentasjon på beregning av tilganger. Her ser vi litt på
+forskjellen på Ainfo-tallene og ny løsning.
 
+    ## `summarise()` regrouping output by 'aarmnd' (override with `.groups` argument)
 
-```
-## `summarise()` regrouping output by 'aarmnd' (override with `.groups` argument)
-```
-
-<!--html_preserve--><div id="htmlwidget-b4cef819459a9bd59a3f" style="width:672px;height:480px;" class="plotly html-widget"></div>
-<script type="application/json" data-for="htmlwidget-b4cef819459a9bd59a3f">{"x":{"data":[{"orientation":"v","width":[0.450000000011642,0.450000000011642,0.450000000011642,0.450000000011642,0.450000000011642,0.450000000011642],"base":[0,0,0,0,0,0],"x":[202004.775,202005.775,202006.775,202007.775,202008.775,202009.775],"y":[28051,33174,20032,21457,38113,27440],"text":["aarmnd: 202005<br />tilgang_sum: 28051<br />versjon: ainfo","aarmnd: 202006<br />tilgang_sum: 33174<br />versjon: ainfo","aarmnd: 202007<br />tilgang_sum: 20032<br />versjon: ainfo","aarmnd: 202008<br />tilgang_sum: 21457<br />versjon: ainfo","aarmnd: 202009<br />tilgang_sum: 38113<br />versjon: ainfo","aarmnd: 202010<br />tilgang_sum: 27440<br />versjon: ainfo"],"type":"bar","marker":{"autocolorscale":false,"color":"rgba(248,118,109,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"ainfo","legendgroup":"ainfo","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":[0.450000000011642,0.450000000011642,0.450000000011642,0.450000000011642,0.450000000011642,0.450000000011642],"base":[0,0,0,0,0,0],"x":[202005.225,202006.225,202007.225,202008.225,202009.225,202010.225],"y":[27497,32890,19336,21069,38030,27041],"text":["aarmnd: 202005<br />tilgang_sum: 27497<br />versjon: kafka","aarmnd: 202006<br />tilgang_sum: 32890<br />versjon: kafka","aarmnd: 202007<br />tilgang_sum: 19336<br />versjon: kafka","aarmnd: 202008<br />tilgang_sum: 21069<br />versjon: kafka","aarmnd: 202009<br />tilgang_sum: 38030<br />versjon: kafka","aarmnd: 202010<br />tilgang_sum: 27041<br />versjon: kafka"],"type":"bar","marker":{"autocolorscale":false,"color":"rgba(0,191,196,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"kafka","legendgroup":"kafka","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null}],"layout":{"margin":{"t":26.2283105022831,"r":7.30593607305936,"b":40.1826484018265,"l":54.7945205479452},"plot_bgcolor":"rgba(235,235,235,1)","paper_bgcolor":"rgba(255,255,255,1)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[202004.255,202010.745],"tickmode":"array","ticktext":["202006","202008","202010"],"tickvals":[202006,202008,202010],"categoryorder":"array","categoryarray":["202006","202008","202010"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.65296803652968,"tickwidth":0.66417600664176,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(255,255,255,1)","gridwidth":0.66417600664176,"zeroline":false,"anchor":"y","title":{"text":"aarmnd","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-1905.65,40018.65],"tickmode":"array","ticktext":["0","10000","20000","30000","40000"],"tickvals":[0,10000,20000,30000,40000],"categoryorder":"array","categoryarray":["0","10000","20000","30000","40000"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.65296803652968,"tickwidth":0.66417600664176,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(255,255,255,1)","gridwidth":0.66417600664176,"zeroline":false,"anchor":"x","title":{"text":"tilgang_sum","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":true,"legend":{"bgcolor":"rgba(255,255,255,1)","bordercolor":"transparent","borderwidth":1.88976377952756,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.689497716895},"y":0.93503937007874},"annotations":[{"text":"versjon","x":1.02,"y":1,"showarrow":false,"ax":0,"ay":0,"font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187},"xref":"paper","yref":"paper","textangle":-0,"xanchor":"left","yanchor":"bottom","legendTitle":true}],"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","showSendToCloud":false},"source":"A","attrs":{"220632e588d":{"x":{},"y":{},"fill":{},"type":"bar"}},"cur_data":"220632e588d","visdat":{"220632e588d":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+![](analyse_av_stillinger_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ## Including Plots
 
 You can also embed plots, for example:
-
-![](analyse_av_stillinger_files/figure-html/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

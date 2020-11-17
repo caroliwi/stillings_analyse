@@ -1,8 +1,6 @@
 ---
 title: "Analyse av stillinger"
-output: 
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -22,7 +20,7 @@ Se dokumentasjon på beregning av tilganger. Her ser vi litt på forskjellen på
 tilgang_mnd <-  tilgang_stilling %>% group_by(aarmnd,versjon) %>% summarise(tilgang_sum = sum(tilgang)) %>% setDT()
 mnd_plot <- ggplot(tilgang_mnd, aes(x = aarmnd, y = tilgang_sum, fill = versjon)) + 
   geom_bar(stat = "identity", position = "dodge")
-ggplotly(mnd_plot)
+mnd_plot
 
 ```
 
@@ -30,8 +28,3 @@ ggplotly(mnd_plot)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
